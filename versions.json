@@ -1,10 +1,15 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "versions": [
     {
       "version": "1.0.0",
       "commit": "53fed437cd",
       "time": 1779209747.6971724
+    },
+    {
+      "version": "1.0.1",
+      "commit": "97c54bc3dc",
+      "time": 1779211717.5160642
     }
   ]
 }
