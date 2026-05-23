@@ -1,0 +1,14 @@
+# Ignore working folders
+/releases/
+/build/
+/gh-pages/
+
+# Ignore working files
+/.modpackctl/
+/*.zip
+/modpackctl.toml
+/*.py
+
+# Only allow README.md
+/*.md
+!/README.md
