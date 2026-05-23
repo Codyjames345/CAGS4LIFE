@@ -1,6 +1,8 @@
 # CAGS4LIFE Modpack
 
-A survival server built around **Create** and tech mods — automate everything, build factories, ride trains, and survive together.
+A private survival server built around **Create** and tech mods — automate everything, build factories, ride trains, and survive together. Nothing serious really, I created this server with the intent to participate in a lil tomfoolery here and there.
+
+Note - you have to be a member of my Discord server to join this server, _don't even think about it bots!_.
 
 **Minecraft 1.21.1 · NeoForge 21.1.229**
 
