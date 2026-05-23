@@ -1,10 +1,11 @@
 {
-  "latest": "1.1.0",
+  "latest": "1.2.0",
   "versions": [
     {
       "version": "1.0.0",
       "commit": "13e4486fc6",
       "time": 1779374384.4654002,
+      "message": "Initial release",
       "modloader": "neoforge-21.1.229"
     },
     {
@@ -12,6 +13,13 @@
       "commit": "3aff8d43b7",
       "time": 1779444259.205801,
       "message": "Removed some problematic mods, updated all to latest version and added some new dependencies + lithium",
+      "modloader": "neoforge-21.1.229"
+    },
+    {
+      "version": "1.2.0",
+      "commit": "5229eac3c4",
+      "time": 1779549723.1006494,
+      "message": "Major update to client updater, added some mods for compatibility",
       "modloader": "neoforge-21.1.229"
     }
   ],
