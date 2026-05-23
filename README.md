@@ -2,7 +2,7 @@
 
 A survival server built around **Create** and tech mods — automate everything, build factories, ride trains, and survive together.
 
-**Minecraft 1.21.1 · NeoForge**
+**Minecraft 1.21.1 · NeoForge 21.1.229**
 
 ---
 
@@ -17,12 +17,12 @@ Go to the [Releases page](https://github.com/Codyjames345/CAGS4LIFE/releases) an
 A launcher that supports separate instances (like [CurseForge](https://www.curseforge.com/download/app) or [Prism Launcher](https://prismlauncher.org/)) is strongly recommended. The vanilla Minecraft launcher shares one `.minecraft` folder across all versions, so installing mods there affects every version you play.
 
 **Using CurseForge, Prism, or similar:**
-1. Create a new **NeoForge 1.21.1** instance.
+1. Create a new **NeoForge 21.1.229** instance.
 2. Open the instance folder (usually right-click the instance → "Open Folder" or similar).
 3. Extract the contents of the zip into that folder — `mods`, `resourcepacks`, and `config` should land at its root.
 
 **Using the vanilla launcher:**
-1. Install [NeoForge 1.21.1](https://neoforged.net/) — it will create a new NeoForge profile automatically.
+1. Install [NeoForge 21.1.229](https://neoforged.net/) — it will create a new NeoForge profile automatically.
 2. Extract the zip contents into your `.minecraft` folder (`%AppData%\.minecraft` on Windows, `~/Library/Application Support/minecraft` on macOS, `~/.minecraft` on Linux).
 3. Note: mods installed here are shared with all other versions in the vanilla launcher.
 
@@ -30,7 +30,7 @@ Also extract **`client-updater.py`** somewhere you can find it again — you'll 
 
 ### 3. Connect
 
-Launch NeoForge 1.21.1 and connect to **`cags4.life`**.
+Launch NeoForge 21.1.229 and connect to **`cags4.life`**.
 
 ---
 
@@ -54,5 +54,5 @@ It will check for updates, show you what changed, and install automatically.
 | | |
 |---|---|
 | Minecraft | 1.21.1 |
-| Mod loader | NeoForge |
+| Mod loader | NeoForge 21.1.229 |
 | Python (updater only) | 3.8 or newer |
