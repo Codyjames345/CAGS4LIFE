@@ -1,14 +1,6 @@
-# Ignore working folders
-/releases/
-/build/
-/gh-pages/
+# Ignore all files/folders by default
+/*
 
-# Ignore working files
-/.modpackctl/
-/*.zip
-/modpackctl.toml
-/*.py
-
-# Only allow README.md
-/*.md
 !/README.md
+!/LICENSE
+!/.gitignore
