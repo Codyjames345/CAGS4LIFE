@@ -1,6 +1,6 @@
 # CAGS4LIFE
 
-[Short description of your server or modpack — theme, vibe, who it's for.]
+A kitchen-sink modpack for the CAGS4LIFE community server. Build and automate with Create and Applied Energistics 2, cast spells with Ars Nouveau, take to the skies with Immersive Aircraft, fight epic bosses from Cataclysm, and cook up a feast with Farmer's Delight. Ships with Complementary Reimagined shaders and a full suite of performance and QoL mods — just install and play.
 
 **Minecraft 1.21.1 · neoforge-21.1.229**
 
@@ -12,14 +12,14 @@
 
 Go to the [Releases page](https://github.com/Codyjames345/CAGS4LIFE/releases) and download one of:
 
-- **`CAGS4LIFE-1.3.0-client.zip`** — extract manually into your instance folder (see below)
-- **`CAGS4LIFE-1.3.0-curseforge.zip`** — import directly into the CurseForge launcher
+- **`CAGS4LIFE-1.3.1-client.zip`** — extract manually into your instance folder (see below)
+- **`CAGS4LIFE-1.3.1-curseforge.zip`** — import directly into the CurseForge launcher
 
 ### 2. Install it
 
 **Importing the CurseForge zip (easiest):**
 1. Open the CurseForge launcher and click **Create Custom Profile** → **Import**.
-2. Select `CAGS4LIFE-1.3.0-curseforge.zip` and let it install.
+2. Select `CAGS4LIFE-1.3.1-curseforge.zip` and let it install.
 
 **Extracting the client zip manually:**
 
@@ -30,7 +30,7 @@ every version you play.
 
 1. Create a new **neoforge-21.1.229** instance.
 2. Open the instance folder (usually right-click → "Open Folder" or similar).
-3. Extract the contents of `CAGS4LIFE-1.3.0-client.zip` into that folder —
+3. Extract the contents of `CAGS4LIFE-1.3.1-client.zip` into that folder —
    `mods`, `resourcepacks`, and `config` should land at its root.
 
 **Using the vanilla launcher:**
@@ -92,7 +92,7 @@ README PLACEHOLDERS
   1.21.1 → Minecraft version from the commit (e.g. 1.21.1) — kept in sync on MC version changes
   neoforge-21.1.229         → Full modloader id (e.g. neoforge-21.1.229)       — kept in sync on modloader changes
   NeoForge    → Loader name only (e.g. NeoForge)                 — kept in sync on modloader changes
-  1.3.0    → Modpack version (e.g. 1.2.0)                     — kept in sync on every build
+  1.3.1    → Modpack version (e.g. 1.2.0)                     — kept in sync on every build
   https://github.com/Codyjames345/CAGS4LIFE/releases      → https://github.com/<user>/<repo>/releases
   Codyjames34526            → settings.author
   cags4.life    → settings.server_address
