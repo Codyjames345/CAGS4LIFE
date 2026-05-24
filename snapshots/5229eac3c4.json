@@ -158,8 +158,8 @@
   "1088877": {
     "file_id": "8130121",
     "name": "Farmers Structures",
-    "file": "",
-    "category": ""
+    "file": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+    "category": "mods"
   },
   "873866": {
     "file_id": "5860711",
@@ -356,8 +356,8 @@
   "1173964": {
     "file_id": "6064142",
     "name": "Disconnect Packet Fix",
-    "file": "",
-    "category": ""
+    "file": "disconnect-packet-fix-neoforge-2.0.1.jar",
+    "category": "mods"
   },
   "491290": {
     "file_id": "7120722",
@@ -656,8 +656,8 @@
   "406463": {
     "file_id": "6239407",
     "name": "BlueMap",
-    "file": "",
-    "category": ""
+    "file": "bluemap-5.7-neoforge.jar",
+    "category": "mods"
   },
   "714059": {
     "file_id": "6467772",
@@ -728,8 +728,8 @@
   "580689": {
     "file_id": "6640970",
     "name": "Loot Integrations",
-    "file": "",
-    "category": ""
+    "file": "lootintegrations-1.21.1-4.7.jar",
+    "category": "mods"
   },
   "348831": {
     "file_id": "7143842",
@@ -866,8 +866,8 @@
   "470193": {
     "file_id": "7367221",
     "name": "Connectivity",
-    "file": "",
-    "category": ""
+    "file": "connectivity-1.21.1-7.6.jar",
+    "category": "mods"
   },
   "1253573": {
     "file_id": "7226648",
@@ -1148,8 +1148,8 @@
   "582327": {
     "file_id": "6296628",
     "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "smoothchunk-1.21-4.1.jar",
+    "category": "mods"
   },
   "550678": {
     "file_id": "6819714",
@@ -1190,8 +1190,8 @@
   "632624": {
     "file_id": "6420137",
     "name": "Hopo Better Ruined Portals",
-    "file": "",
-    "category": ""
+    "file": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+    "category": "mods"
   },
   "968868": {
     "file_id": "7980010",
@@ -1334,8 +1334,8 @@
   "899487": {
     "file_id": "6210181",
     "name": "Better chunk loading[Forge/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "betterchunkloading-1.21-5.4.jar",
+    "category": "mods"
   },
   "1217518": {
     "file_id": "7951368",
@@ -1352,8 +1352,8 @@
   "953729": {
     "file_id": "6286593",
     "name": "Create: Oxidized",
-    "file": "",
-    "category": ""
+    "file": "create_oxidized-0.1.3.jar",
+    "category": "mods"
   },
   "1131668": {
     "file_id": "8046852",
@@ -1412,8 +1412,8 @@
   "951499": {
     "file_id": "6935204",
     "name": "Fast Async World Save[Forge/Neo/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "fastasyncworldsave-1.21-2.6.jar",
+    "category": "mods"
   },
   "978148": {
     "file_id": "5532331",
@@ -1664,8 +1664,8 @@
   "831663": {
     "file_id": "7926632",
     "name": "Chunk Sending[Forge/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "chunksending-1.21-2.9.jar",
+    "category": "mods"
   },
   "220318": {
     "file_id": "7251965",
@@ -1700,8 +1700,8 @@
   "1274107": {
     "file_id": "7203817",
     "name": "Create BlueMap",
-    "file": "",
-    "category": ""
+    "file": "create_bluemap-1.1.1.jar",
+    "category": "mods"
   },
   "1119194": {
     "file_id": "7843594",
@@ -1796,8 +1796,8 @@
   "1003666": {
     "file_id": "7456302",
     "name": "Luki's Grand Capitals",
-    "file": "",
-    "category": ""
+    "file": "lukis-grand-capitals-1.1.3.jar",
+    "category": "mods"
   },
   "951809": {
     "file_id": "6210326",
@@ -2012,8 +2012,8 @@
   "1279218": {
     "file_id": "7300527",
     "name": "Chunks for BlueMap",
-    "file": "",
-    "category": ""
+    "file": "ftbchunksbluemap-1.1.1.jar",
+    "category": "mods"
   },
   "1010456": {
     "file_id": "8016653",
@@ -2054,8 +2054,8 @@
   "623723": {
     "file_id": "6420134",
     "name": "Hopo Better Mineshaft",
-    "file": "",
-    "category": ""
+    "file": "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar",
+    "category": "mods"
   },
   "1008327": {
     "file_id": "8077429",
@@ -2072,8 +2072,8 @@
   "832882": {
     "file_id": "7962596",
     "name": "Structure Essentials",
-    "file": "",
-    "category": ""
+    "file": "structureessentials-1.21.1-5.0.jar",
+    "category": "mods"
   },
   "499826": {
     "file_id": "5905995",

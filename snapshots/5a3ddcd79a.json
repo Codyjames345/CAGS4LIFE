@@ -44,14 +44,14 @@
   "541320": {
     "file_id": "8117963",
     "name": "Simple Discord Link Bot",
-    "file": "",
-    "category": ""
+    "file": "SimpleDiscordLink-Universal-3.4.2.jar",
+    "category": "mods"
   },
   "831663": {
     "file_id": "7926632",
     "name": "Chunk Sending[Forge/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "chunksending-1.21-2.9.jar",
+    "category": "mods"
   },
   "520110": {
     "file_id": "6423863",
@@ -296,8 +296,8 @@
   "582327": {
     "file_id": "6296628",
     "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "smoothchunk-1.21-4.1.jar",
+    "category": "mods"
   },
   "638111": {
     "file_id": "6372979",
@@ -368,8 +368,8 @@
   "1173964": {
     "file_id": "6064142",
     "name": "Disconnect Packet Fix",
-    "file": "",
-    "category": ""
+    "file": "disconnect-packet-fix-neoforge-2.0.1.jar",
+    "category": "mods"
   },
   "829380": {
     "file_id": "8104393",
@@ -434,14 +434,14 @@
   "1003666": {
     "file_id": "7456302",
     "name": "Luki's Grand Capitals",
-    "file": "",
-    "category": ""
+    "file": "lukis-grand-capitals-1.1.3.jar",
+    "category": "mods"
   },
   "580689": {
     "file_id": "6640970",
     "name": "Loot Integrations",
-    "file": "",
-    "category": ""
+    "file": "lootintegrations-1.21.1-4.7.jar",
+    "category": "mods"
   },
   "905040": {
     "file_id": "6299879",
@@ -494,8 +494,8 @@
   "1274107": {
     "file_id": "7203817",
     "name": "Create BlueMap",
-    "file": "",
-    "category": ""
+    "file": "create_bluemap-1.1.1.jar",
+    "category": "mods"
   },
   "558998": {
     "file_id": "7687594",
@@ -548,8 +548,8 @@
   "832882": {
     "file_id": "7962596",
     "name": "Structure Essentials",
-    "file": "",
-    "category": ""
+    "file": "structureessentials-1.21.1-5.0.jar",
+    "category": "mods"
   },
   "454372": {
     "file_id": "7783425",
@@ -716,8 +716,8 @@
   "623723": {
     "file_id": "6420134",
     "name": "Hopo Better Mineshaft",
-    "file": "",
-    "category": ""
+    "file": "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar",
+    "category": "mods"
   },
   "463155": {
     "file_id": "6240977",
@@ -794,8 +794,8 @@
   "953729": {
     "file_id": "6286593",
     "name": "Create: Oxidized",
-    "file": "",
-    "category": ""
+    "file": "create_oxidized-0.1.3.jar",
+    "category": "mods"
   },
   "905861": {
     "file_id": "7388244",
@@ -1130,8 +1130,8 @@
   "899487": {
     "file_id": "6210181",
     "name": "Better chunk loading[Forge/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "betterchunkloading-1.21-5.4.jar",
+    "category": "mods"
   },
   "583228": {
     "file_id": "7151913",
@@ -1178,8 +1178,8 @@
   "951499": {
     "file_id": "6935204",
     "name": "Fast Async World Save[Forge/Neo/Fabric]",
-    "file": "",
-    "category": ""
+    "file": "fastasyncworldsave-1.21-2.6.jar",
+    "category": "mods"
   },
   "924590": {
     "file_id": "6952841",
@@ -1280,8 +1280,8 @@
   "406463": {
     "file_id": "6239407",
     "name": "BlueMap",
-    "file": "",
-    "category": ""
+    "file": "bluemap-5.7-neoforge.jar",
+    "category": "mods"
   },
   "938643": {
     "file_id": "5453382",
@@ -1334,8 +1334,8 @@
   "632624": {
     "file_id": "6420137",
     "name": "Hopo Better Ruined Portals",
-    "file": "",
-    "category": ""
+    "file": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+    "category": "mods"
   },
   "639842": {
     "file_id": "7721843",
@@ -1922,8 +1922,8 @@
   "1279218": {
     "file_id": "7300527",
     "name": "Chunks for BlueMap",
-    "file": "",
-    "category": ""
+    "file": "ftbchunksbluemap-1.1.1.jar",
+    "category": "mods"
   },
   "227874": {
     "file_id": "6182439",
@@ -1970,8 +1970,8 @@
   "1088877": {
     "file_id": "8130121",
     "name": "Farmers Structures",
-    "file": "",
-    "category": ""
+    "file": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+    "category": "mods"
   },
   "947914": {
     "file_id": "8046148",
@@ -2036,8 +2036,8 @@
   "470193": {
     "file_id": "7367221",
     "name": "Connectivity",
-    "file": "",
-    "category": ""
+    "file": "connectivity-1.21.1-7.6.jar",
+    "category": "mods"
   },
   "233071": {
     "file_id": "8019498",
