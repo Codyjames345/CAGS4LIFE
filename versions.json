@@ -1,5 +1,5 @@
 {
-  "latest": "1.3.1",
+  "latest": "1.3.2",
   "versions": [
     {
       "version": "1.0.0",
@@ -33,6 +33,13 @@
       "version": "1.3.1",
       "commit": "bbbe7a2a47",
       "time": 1779615717.2319157,
+      "modloader": "neoforge-21.1.229"
+    },
+    {
+      "version": "1.3.2",
+      "commit": "5399cc42d0",
+      "time": 1779643611.6434011,
+      "message": "Updated all to latest version, fixed many bugs in updater scripts",
       "modloader": "neoforge-21.1.229"
     }
   ],
