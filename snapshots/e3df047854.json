@@ -1,0 +1,2480 @@
+{
+  "570544": {
+    "file_id": "5567664",
+    "name": "Eating Animation [Neo/Forge]",
+    "file": "eatinganimation-1.21.0-6.0.1.jar",
+    "category": "mods"
+  },
+  "580681": {
+    "file_id": "8076920",
+    "name": "Immersive Armors [Fabric/Forge]",
+    "file": "immersive_armors-1.7.6+1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "314906": {
+    "file_id": "7608681",
+    "name": "FTB Chunks (NeoForge)",
+    "file": "ftb-chunks-neoforge-2101.1.14.jar",
+    "category": "mods"
+  },
+  "981139": {
+    "file_id": "8153193",
+    "name": "Variants&Ventures",
+    "file": "variantsandventures-neoforge-1.0.25+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "602059": {
+    "file_id": "8154530",
+    "name": "Friends&Foes (Forge/NeoForge)",
+    "file": "friendsandfoes-neoforge-4.0.26+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "251767": {
+    "file_id": "5511073",
+    "name": "Waddles",
+    "file": "Waddles-neoforge-1.21-0.11.1.jar",
+    "category": "mods"
+  },
+  "456239": {
+    "file_id": "7151100",
+    "name": "Easy Magic",
+    "file": "EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "225738": {
+    "file_id": "7943676",
+    "name": "MmmMmmMmmMmm (Target Dummy)",
+    "file": "dummmmmmy-1.21-2.0.12-neoforge.jar",
+    "category": "mods"
+  },
+  "363703": {
+    "file_id": "6427515",
+    "name": "Goblin Traders",
+    "file": "goblintraders-neoforge-1.21.1-1.11.2.jar",
+    "category": "mods"
+  },
+  "899487": {
+    "file_id": "6210181",
+    "name": "Better chunk loading[Forge/Fabric]",
+    "file": "betterchunkloading-1.21-5.4.jar",
+    "category": "mods"
+  },
+  "623723": {
+    "file_id": "6420134",
+    "name": "Hopo Better Mineshaft",
+    "file": "HopoBetterMineshaft-[1.21-1.21.3]-1.3.0b.jar",
+    "category": "mods"
+  },
+  "334853": {
+    "file_id": "7505758",
+    "name": "Simple Discord Rich Presence (Forge /  Fabric)",
+    "file": "SimpleDiscordRichPresence-neoforge-88.0.1-build.54+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "1148090": {
+    "file_id": "6952688",
+    "name": "Longer Following Time",
+    "file": "longer_following_time-merged-1.21.1-1.1.0.jar",
+    "category": "mods"
+  },
+  "342584": {
+    "file_id": "8021351",
+    "name": "Collective",
+    "file": "collective-1.21.1-8.22.jar",
+    "category": "mods"
+  },
+  "627557": {
+    "file_id": "8123287",
+    "name": "Complementary Shaders - Reimagined",
+    "file": "ComplementaryReimagined_r5.8.1.zip",
+    "category": "shaderpacks"
+  },
+  "1279218": {
+    "file_id": "7300527",
+    "name": "Chunks for BlueMap",
+    "file": "ftbchunksbluemap-1.1.1.jar",
+    "category": "mods"
+  },
+  "351264": {
+    "file_id": "7471280",
+    "name": "Kotlin for Forge",
+    "file": "kotlinforforge-5.11.0-all.jar",
+    "category": "mods"
+  },
+  "233019": {
+    "file_id": "5426792",
+    "name": "AI Improvements",
+    "file": "AI-Improvements-1.21-0.5.3.jar",
+    "category": "mods"
+  },
+  "623908": {
+    "file_id": "7788733",
+    "name": "ChoiceTheorem's Overhauled Village",
+    "file": "[Neoforge]ctov-3.6.3.jar",
+    "category": "mods"
+  },
+  "634062": {
+    "file_id": "5885735",
+    "name": "No Chat Reports",
+    "file": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+    "category": "mods"
+  },
+  "658587": {
+    "file_id": "7389814",
+    "name": "playerAnimator",
+    "file": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+    "category": "mods"
+  },
+  "854213": {
+    "file_id": "6830399",
+    "name": "Colorful Hearts",
+    "file": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+    "category": "mods"
+  },
+  "899330": {
+    "file_id": "7707479",
+    "name": "Create Style Sophisticated Backpacks",
+    "file": "CreateSophBackpacks.zip",
+    "category": "resourcepacks"
+  },
+  "1191845": {
+    "file_id": "6148845",
+    "name": "Redirected",
+    "file": "redirected-neoforge-1.0.0-1.21.1.jar",
+    "category": "mods"
+  },
+  "243076": {
+    "file_id": "8105115",
+    "name": "Refined Storage",
+    "file": "refinedstorage-neoforge-2.0.8.jar",
+    "category": "mods"
+  },
+  "511319": {
+    "file_id": "6091021",
+    "name": "Reese's Sodium Options",
+    "file": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+    "category": "mods"
+  },
+  "1146393": {
+    "file_id": "6929971",
+    "name": "Sodium/Embeddium Options Mod Compat",
+    "file": "sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar",
+    "category": "mods"
+  },
+  "238222": {
+    "file_id": "7391682",
+    "name": "Just Enough Items (JEI)",
+    "file": "jei-1.21.1-neoforge-19.27.0.336.jar",
+    "category": "mods"
+  },
+  "1346978": {
+    "file_id": "7270449",
+    "name": "Cool Rain Reforged",
+    "file": "coolrain-1.21.1-NeoForge-1.0.1.jar",
+    "category": "mods"
+  },
+  "1173964": {
+    "file_id": "6064142",
+    "name": "Disconnect Packet Fix",
+    "file": "disconnect-packet-fix-neoforge-2.0.1.jar",
+    "category": "mods"
+  },
+  "254268": {
+    "file_id": "7197218",
+    "name": "Torchmaster",
+    "file": "torchmaster-neoforge-1.21.1-21.1.9.jar",
+    "category": "mods"
+  },
+  "289412": {
+    "file_id": "7878289",
+    "name": "FTB Quests (NeoForge)",
+    "file": "ftb-quests-neoforge-2101.1.24.jar",
+    "category": "mods"
+  },
+  "978675": {
+    "file_id": "7918038",
+    "name": "Create: Totem Factory",
+    "file": "TotemFactory-1.1.1+mc1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "345854": {
+    "file_id": "8021602",
+    "name": "Villager Names",
+    "file": "villagernames-1.21.1-8.4.jar",
+    "category": "mods"
+  },
+  "344787": {
+    "file_id": "5842036",
+    "name": "XP Tome",
+    "file": "xptome-1.21.1-2.4.jar",
+    "category": "mods"
+  },
+  "915902": {
+    "file_id": "8177588",
+    "name": "Euphoria Patches",
+    "file": "EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+    "category": "mods"
+  },
+  "458048": {
+    "file_id": "5918197",
+    "name": "Diagonal Fences",
+    "file": "DiagonalFences-v21.1.1-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "622888": {
+    "file_id": "7436813",
+    "name": "Ponder for KubeJS",
+    "file": "ponderjs-neoforge-1.21.1-2.4.0.jar",
+    "category": "mods"
+  },
+  "632624": {
+    "file_id": "6420137",
+    "name": "Hopo Better Ruined Portals",
+    "file": "HopoBetterRuinedPortals-[1.21.1-1.21.3]-1.4.4b.jar",
+    "category": "mods"
+  },
+  "949995": {
+    "file_id": "7811721",
+    "name": "Create: Wizardry",
+    "file": "create_wizardry-1.21.1-0.4.2.jar",
+    "category": "mods"
+  },
+  "1256341": {
+    "file_id": "8044769",
+    "name": "Create Stock Bridge",
+    "file": "createstockbridge-1.21.1-0.2.0.jar",
+    "category": "mods"
+  },
+  "561625": {
+    "file_id": "6051279",
+    "name": "Creeper Overhaul",
+    "file": "CreeperOverhaul-neoforge-1.21.1-4.0.6.jar",
+    "category": "mods"
+  },
+  "636540": {
+    "file_id": "7850172",
+    "name": "Structory",
+    "file": "Structory_26.1_v1.3.16.jar",
+    "category": "mods"
+  },
+  "652202": {
+    "file_id": "8169164",
+    "name": "Create : Misc & Things",
+    "file": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "820977": {
+    "file_id": "8023674",
+    "name": "Create: Central Kitchen",
+    "file": "create-central-kitchen-2.4.0.jar",
+    "category": "mods"
+  },
+  "640001": {
+    "file_id": "6266334",
+    "name": "Factory Blocks [Forge/Fabric/NeoForge]",
+    "file": "factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "619320": {
+    "file_id": "8181802",
+    "name": "Sophisticated Storage",
+    "file": "sophisticatedstorage-1.21.1-1.5.54.1762.jar",
+    "category": "mods"
+  },
+  "60089": {
+    "file_id": "5637846",
+    "name": "Mouse Tweaks",
+    "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+    "category": "mods"
+  },
+  "918751": {
+    "file_id": "7952693",
+    "name": "Create: Bitterballen",
+    "file": "create_bic_bit-1.0.2C.jar",
+    "category": "mods"
+  },
+  "1152836": {
+    "file_id": "8140539",
+    "name": "Create: Radars",
+    "file": "create_radar-0.4.9.2-1.21.1.jar",
+    "category": "mods"
+  },
+  "1390924": {
+    "file_id": "8032772",
+    "name": "Drippy Early Loading Module",
+    "file": "drippy_early_loading_module_neoforge_3.1.2_MC_1.21.1.jar",
+    "category": "mods"
+  },
+  "509285": {
+    "file_id": "7943181",
+    "name": "Create Deco",
+    "file": "createdeco-2.1.3.jar",
+    "category": "mods"
+  },
+  "245755": {
+    "file_id": "8163145",
+    "name": "Waystones",
+    "file": "waystones-neoforge-1.21.1-21.1.34.jar",
+    "category": "mods"
+  },
+  "551736": {
+    "file_id": "6044477",
+    "name": "Sodium/Embeddium Dynamic Lights",
+    "file": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+    "category": "mods"
+  },
+  "439870": {
+    "file_id": "8128405",
+    "name": "Customizable Player Models",
+    "file": "CustomPlayerModels-1.21-0.6.26a.jar",
+    "category": "mods"
+  },
+  "1396590": {
+    "file_id": "7286008",
+    "name": "Multi Arrow Effects [Multiple Effects on One Arrow]",
+    "file": "MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar",
+    "category": "mods"
+  },
+  "312353": {
+    "file_id": "7875426",
+    "name": "Artifacts",
+    "file": "artifacts-neoforge-13.2.1.jar",
+    "category": "mods"
+  },
+  "283644": {
+    "file_id": "6926281",
+    "name": "Placebo",
+    "file": "Placebo-1.21.1-9.9.1.jar",
+    "category": "mods"
+  },
+  "633823": {
+    "file_id": "8127603",
+    "name": "Almost Unified",
+    "file": "almostunified-neoforge-1.21.1-1.4.2.jar",
+    "category": "mods"
+  },
+  "439890": {
+    "file_id": "8083378",
+    "name": "Create Crafts & Additions",
+    "file": "createaddition-1.5.11.jar",
+    "category": "mods"
+  },
+  "522992": {
+    "file_id": "7541336",
+    "name": "BlockUI",
+    "file": "blockui-1.0.209-1.21.1.jar",
+    "category": "mods"
+  },
+  "959446": {
+    "file_id": "6404199",
+    "name": "EnderPack - New Backpack",
+    "file": "ender_pack-merged-1.21.1-2.2.0.jar",
+    "category": "mods"
+  },
+  "655608": {
+    "file_id": "7285435",
+    "name": "Create Jetpack",
+    "file": "create_jetpack-forge-5.1.2.jar",
+    "category": "mods"
+  },
+  "737302": {
+    "file_id": "7232820",
+    "name": "Create: Ender Transmission",
+    "file": "createendertransmission-2.1.1-1.21.1.jar",
+    "category": "mods"
+  },
+  "574300": {
+    "file_id": "7096962",
+    "name": "Applied Mekanistics",
+    "file": "Applied-Mekanistics-1.6.3.jar",
+    "category": "mods"
+  },
+  "897116": {
+    "file_id": "7473565",
+    "name": "MrCrayfish's Furniture Mod: Refurbished",
+    "file": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+    "category": "mods"
+  },
+  "693313": {
+    "file_id": "7773534",
+    "name": "CorgiLib",
+    "file": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+    "category": "mods"
+  },
+  "873866": {
+    "file_id": "5860711",
+    "name": "Golden Foods!",
+    "file": "golden_foods-merged-1.21.1-2.4.0.jar",
+    "category": "mods"
+  },
+  "905855": {
+    "file_id": "7454567",
+    "name": "Colourful Containers GUI",
+    "file": "\u00a7lColourful Containers\u00a78.zip",
+    "category": "resourcepacks"
+  },
+  "949158": {
+    "file_id": "6344382",
+    "name": "Create: Easy Structures",
+    "file": "create_easy_structures-0.2a-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "888468": {
+    "file_id": "8133154",
+    "name": "More Bows and Arrows | Major Update Available!",
+    "file": "more_bows_and_arrows-merged-1.21.1-5.0.4.jar",
+    "category": "mods"
+  },
+  "541320": {
+    "file_id": "8117963",
+    "name": "Simple Discord Link Bot",
+    "file": "SimpleDiscordLink-Universal-3.4.2.jar",
+    "category": "mods"
+  },
+  "905861": {
+    "file_id": "7388244",
+    "name": "Create: New Age",
+    "file": "create-new-age-1.1.7c+neoforge-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "1269211": {
+    "file_id": "7208105",
+    "name": "Dynamic Trees - Oh The Biomes We've Gone",
+    "file": "dtbwg-1.1.0-BETA02.jar",
+    "category": "mods"
+  },
+  "686100": {
+    "file_id": "7226870",
+    "name": "Create Mechanical Extruder",
+    "file": "create_mechanical_extruder-1.21.1-2.2.0-6.0.8.jar",
+    "category": "mods"
+  },
+  "870275": {
+    "file_id": "6159954",
+    "name": "TrimsEffects - 2.1 NOW AVAILABLE!",
+    "file": "trimeffects-neoforge-mc1.21-2.1.1.jar",
+    "category": "mods"
+  },
+  "861181": {
+    "file_id": "6658484",
+    "name": "SuperOreBlock",
+    "file": "SOB-NeoForge-1.21.1-1.0.0.jar",
+    "category": "mods"
+  },
+  "394535": {
+    "file_id": "5891067",
+    "name": "Trash Cans",
+    "file": "trashcans-1.0.18c-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "1091339": {
+    "file_id": "8090653",
+    "name": "AllTheLeaks (Memory Leak Fix)",
+    "file": "alltheleaks-1.1.9+1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "240633": {
+    "file_id": "7188660",
+    "name": "Inventory Sorter",
+    "file": "inventorysorter-1.21.1-24.0.24.jar",
+    "category": "mods"
+  },
+  "438332": {
+    "file_id": "5546996",
+    "name": "SuperMartijn642's Config Lib",
+    "file": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "459929": {
+    "file_id": "8048692",
+    "name": "Applied Energistics 2 Wireless Terminals",
+    "file": "ae2wtlib-19.5.0.jar",
+    "category": "mods"
+  },
+  "931925": {
+    "file_id": "8179136",
+    "name": "Chloride (Previously Embeddium++/Sodium++)",
+    "file": "chloride-NEOFORGE-mc1.21.1-v1.7.8.jar",
+    "category": "mods"
+  },
+  "1010066": {
+    "file_id": "8138502",
+    "name": "Create: Structures Arise",
+    "file": "create_structures_arise-176.49.48 NeoForge 1.21.1.jar",
+    "category": "mods"
+  },
+  "959439": {
+    "file_id": "8177587",
+    "name": "Create: Food",
+    "file": "createfood-neoforge-1.21.1-2.5.0.jar",
+    "category": "mods"
+  },
+  "261924": {
+    "file_id": "7966196",
+    "name": "Farming for Blockheads",
+    "file": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+    "category": "mods"
+  },
+  "661517": {
+    "file_id": "5902913",
+    "name": "GroovyModLoader (GML)",
+    "file": "gml-6.0.2.jar",
+    "category": "mods"
+  },
+  "888624": {
+    "file_id": "7522529",
+    "name": "Rechiseled: Create",
+    "file": "rechiseledcreate-1.1.0-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "1492763": {
+    "file_id": "7907336",
+    "name": "Iron's Lib",
+    "file": "irons_lib-1.21.1-1.0.2.jar",
+    "category": "mods"
+  },
+  "352039": {
+    "file_id": "6494399",
+    "name": "Macaw's Roofs",
+    "file": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "350464": {
+    "file_id": "7573270",
+    "name": "Chimes",
+    "file": "Chimes-v2.1.1-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "835687": {
+    "file_id": "7756575",
+    "name": "Better Archeology",
+    "file": "betterarcheology-neoforge-1.21.1-1.3.4.jar",
+    "category": "mods"
+  },
+  "896746": {
+    "file_id": "7461027",
+    "name": "Amendments",
+    "file": "amendments-1.21-2.0.15-neoforge.jar",
+    "category": "mods"
+  },
+  "433760": {
+    "file_id": "8063412",
+    "name": "Not Enough Animations",
+    "file": "notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "535489": {
+    "file_id": "7032247",
+    "name": "Sound Physics Remastered",
+    "file": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+    "category": "mods"
+  },
+  "698309": {
+    "file_id": "8082824",
+    "name": "Explorify \u2013 Dungeons & Structures",
+    "file": "Explorify v1.6.5.mod.jar",
+    "category": "mods"
+  },
+  "1001614": {
+    "file_id": "8094835",
+    "name": "Lionfish API",
+    "file": "lionfishapi-3.0-beta.jar",
+    "category": "mods"
+  },
+  "1400987": {
+    "file_id": "8176277",
+    "name": "Create: Configurable Machine Outputs",
+    "file": "createcmo-1.2.2-create-6.0.x-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "466792": {
+    "file_id": "8100852",
+    "name": "Create Stuff 'N Additions",
+    "file": "create-stuff-additions1.21.1_v2.1.3.jar",
+    "category": "mods"
+  },
+  "676721": {
+    "file_id": "8003941",
+    "name": "Create Aeronautics",
+    "file": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+    "category": "mods"
+  },
+  "361579": {
+    "file_id": "6225208",
+    "name": "spark",
+    "file": "spark-1.10.124-neoforge.jar",
+    "category": "mods"
+  },
+  "1090999": {
+    "file_id": "7369254",
+    "name": "AddonsLib",
+    "file": "addonslib-neoforge-1.21.1-1.10.jar",
+    "category": "mods"
+  },
+  "582327": {
+    "file_id": "6296628",
+    "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+    "file": "smoothchunk-1.21-4.1.jar",
+    "category": "mods"
+  },
+  "298187": {
+    "file_id": "6850515",
+    "name": "Building Gadgets",
+    "file": "buildinggadgets2-1.3.9.jar",
+    "category": "mods"
+  },
+  "367706": {
+    "file_id": "8089432",
+    "name": "FancyMenu",
+    "file": "fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+    "category": "mods"
+  },
+  "953637": {
+    "file_id": "7142896",
+    "name": "When Dungeons Arise - Seven Seas",
+    "file": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+    "category": "mods"
+  },
+  "635427": {
+    "file_id": "5444189",
+    "name": "Yeetus Experimentus",
+    "file": "yeetusexperimentus-neoforge-87.0.0.jar",
+    "category": "mods"
+  },
+  "639842": {
+    "file_id": "7721843",
+    "name": "Better Combat [Fabric & Forge]",
+    "file": "bettercombat-neoforge-2.3.2+1.21.1.jar",
+    "category": "mods"
+  },
+  "1083672": {
+    "file_id": "6160027",
+    "name": "Portable Spawners",
+    "file": "portablespawner-neoforge-1.21.1-1.0.0.jar",
+    "category": "mods"
+  },
+  "1023259": {
+    "file_id": "6961457",
+    "name": "Prickle",
+    "file": "prickle-neoforge-1.21.1-21.1.11.jar",
+    "category": "mods"
+  },
+  "947914": {
+    "file_id": "8142873",
+    "name": "Create: Connected",
+    "file": "create_connected-1.2.0-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "946163": {
+    "file_id": "8176502",
+    "name": "DragonLib",
+    "file": "dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+    "category": "mods"
+  },
+  "618298": {
+    "file_id": "8181897",
+    "name": "Sophisticated Core",
+    "file": "sophisticatedcore-1.21.1-1.4.43.1912.jar",
+    "category": "mods"
+  },
+  "1072349": {
+    "file_id": "7155413",
+    "name": "Create: Pattern Schematics",
+    "file": "create_pattern_schematics-2.0.10.jar",
+    "category": "mods"
+  },
+  "938917": {
+    "file_id": "7583320",
+    "name": "Accessories",
+    "file": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+    "category": "mods"
+  },
+  "704256": {
+    "file_id": "6917625",
+    "name": "Visuality: Reforged",
+    "file": "visuality-forge-2.1.0.jar",
+    "category": "mods"
+  },
+  "538214": {
+    "file_id": "6330030",
+    "name": "Handcrafted",
+    "file": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+    "category": "mods"
+  },
+  "831663": {
+    "file_id": "7926632",
+    "name": "Chunk Sending[Forge/Fabric]",
+    "file": "chunksending-1.21-2.9.jar",
+    "category": "mods"
+  },
+  "416089": {
+    "file_id": "8158511",
+    "name": "Simple Voice Chat",
+    "file": "voicechat-neoforge-1.21.1-2.6.18.jar",
+    "category": "mods"
+  },
+  "576589": {
+    "file_id": "7140477",
+    "name": "PolyLib",
+    "file": "polylib-2100.1.0-build.183-neoforge.jar",
+    "category": "mods"
+  },
+  "936015": {
+    "file_id": "8158004",
+    "name": "Lithostitched",
+    "file": "lithostitched-1.7.9-neoforge-21.1.jar",
+    "category": "mods"
+  },
+  "583228": {
+    "file_id": "7151913",
+    "name": "Simple Backups",
+    "file": "SimpleBackups-1.21-4.0.21.jar",
+    "category": "mods"
+  },
+  "1162995": {
+    "file_id": "6678349",
+    "name": "Create : New Furnitures",
+    "file": "create_furnitures-1.1.2-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "1274107": {
+    "file_id": "7203817",
+    "name": "Create BlueMap",
+    "file": "create_bluemap-1.1.1.jar",
+    "category": "mods"
+  },
+  "475117": {
+    "file_id": "7527945",
+    "name": "FastSuite",
+    "file": "FastSuite-1.21.1-6.0.7.jar",
+    "category": "mods"
+  },
+  "867328": {
+    "file_id": "7220195",
+    "name": "Create: Applied Kinetics",
+    "file": "createappliedkinetics-1.5.3-1.21.1.jar",
+    "category": "mods"
+  },
+  "827163": {
+    "file_id": "8037557",
+    "name": "Ender's Delight",
+    "file": "endersdelight-1.3.0.jar",
+    "category": "mods"
+  },
+  "257814": {
+    "file_id": "8164503",
+    "name": "CreativeCore",
+    "file": "CreativeCore_NEOFORGE_v2.13.40_mc1.21.1.jar",
+    "category": "mods"
+  },
+  "385587": {
+    "file_id": "8123288",
+    "name": "Complementary Shaders - Unbound",
+    "file": "ComplementaryUnbound_r5.8.1.zip",
+    "category": "shaderpacks"
+  },
+  "968432": {
+    "file_id": "7974611",
+    "name": "MonoLib",
+    "file": "monolib-neoforge-1.21.1-4.0.2.jar",
+    "category": "mods"
+  },
+  "860325": {
+    "file_id": "5609745",
+    "name": "More Beautiful Torches | +600 New Torches!",
+    "file": "more_beautiful_torches-merged-1.21-3.0.0.jar",
+    "category": "mods"
+  },
+  "1161283": {
+    "file_id": "7831305",
+    "name": "Create: Winery",
+    "file": "create_winery-2.0.2-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "1302224": {
+    "file_id": "6741685",
+    "name": "Custom Nether Portals [Any Shape Nether Portals]",
+    "file": "custom_nether_portals-neoforge-1.21.1-1.0.0.jar",
+    "category": "mods"
+  },
+  "32274": {
+    "file_id": "8181568",
+    "name": "JourneyMap",
+    "file": "journeymap-neoforge-1.21.1-6.0.0-beta.80.jar",
+    "category": "mods"
+  },
+  "316582": {
+    "file_id": "7018307",
+    "name": "Corpse",
+    "file": "corpse-neoforge-1.21.1-1.1.13.jar",
+    "category": "mods"
+  },
+  "1447914": {
+    "file_id": "7797567",
+    "name": "Ars 'n Spells",
+    "file": "ars_n_spells-2.1.0.jar",
+    "category": "mods"
+  },
+  "1091960": {
+    "file_id": "8127334",
+    "name": "Create: More Features",
+    "file": "create_mf-0.1.1-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "348831": {
+    "file_id": "7143842",
+    "name": "Double Doors",
+    "file": "doubledoors-1.21.1-7.2.jar",
+    "category": "mods"
+  },
+  "933354": {
+    "file_id": "6581607",
+    "name": "Dis-Enchanting Table",
+    "file": "disenchanting_table-merged-1.21.1-5.0.2.jar",
+    "category": "mods"
+  },
+  "1299553": {
+    "file_id": "6826478",
+    "name": "Zombie Variants - 15 New Zombies!",
+    "file": "zombie_variants-neoforge-1.0.3-1.21.1.jar",
+    "category": "mods"
+  },
+  "268567": {
+    "file_id": "7904062",
+    "name": "Mekanism Tools",
+    "file": "MekanismTools-1.21.1-10.7.19.85.jar",
+    "category": "mods"
+  },
+  "527361": {
+    "file_id": "7789217",
+    "name": "Domum Ornamentum",
+    "file": "domum-ornamentum-1.0.231-main.jar",
+    "category": "mods"
+  },
+  "1230497": {
+    "file_id": "6359014",
+    "name": "Refined Storage - JEI Integration",
+    "file": "refinedstorage-jei-integration-neoforge-1.0.0.jar",
+    "category": "mods"
+  },
+  "1085950": {
+    "file_id": "6162194",
+    "name": "Beautiful Campfires",
+    "file": "beautifulcampfires-neoforge-1.21.1-1.0.2.jar",
+    "category": "mods"
+  },
+  "627994": {
+    "file_id": "8175919",
+    "name": "Customizable Player Models Simple Voice Chat compat",
+    "file": "cpm-svc-compat-1.3.1.jar",
+    "category": "mods"
+  },
+  "419699": {
+    "file_id": "5786327",
+    "name": "Architectury API",
+    "file": "architectury-13.0.8-neoforge.jar",
+    "category": "mods"
+  },
+  "401648": {
+    "file_id": "5873258",
+    "name": "BetterF3",
+    "file": "BetterF3-11.0.3-NeoForge-1.21.1.jar",
+    "category": "mods"
+  },
+  "309927": {
+    "file_id": "6529130",
+    "name": "Curios API (Forge/NeoForge)",
+    "file": "curios-neoforge-9.5.1+1.21.1.jar",
+    "category": "mods"
+  },
+  "272335": {
+    "file_id": "8035802",
+    "name": "Cucumber Library",
+    "file": "Cucumber-1.21.1-8.0.16.jar",
+    "category": "mods"
+  },
+  "924590": {
+    "file_id": "6952841",
+    "name": "Medieval Buildings - New Structures!",
+    "file": "medieval_buildings-1.21.1-1.1.1-neoforge.jar",
+    "category": "mods"
+  },
+  "935929": {
+    "file_id": "8175347",
+    "name": "Create Railways Navigator",
+    "file": "createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar",
+    "category": "mods"
+  },
+  "237749": {
+    "file_id": "7796187",
+    "name": "CoroUtil",
+    "file": "coroutil-neoforge-1.21.0-1.3.9.jar",
+    "category": "mods"
+  },
+  "511770": {
+    "file_id": "8032784",
+    "name": "Drippy Loading Screen",
+    "file": "drippyloadingscreen_neoforge_3.1.2_MC_1.21.1.jar",
+    "category": "mods"
+  },
+  "268560": {
+    "file_id": "7904058",
+    "name": "Mekanism",
+    "file": "Mekanism-1.21.1-10.7.19.85.jar",
+    "category": "mods"
+  },
+  "435044": {
+    "file_id": "5833474",
+    "name": "Better Third Person",
+    "file": "BetterThirdPerson-neoforge-1.9.0.jar",
+    "category": "mods"
+  },
+  "404468": {
+    "file_id": "7878281",
+    "name": "FTB Teams (NeoForge)",
+    "file": "ftb-teams-neoforge-2101.1.10.jar",
+    "category": "mods"
+  },
+  "525447": {
+    "file_id": "6508946",
+    "name": "JourneyMap Integration",
+    "file": "jmi-neoforge-1.21.1-1.9.jar",
+    "category": "mods"
+  },
+  "558998": {
+    "file_id": "7687594",
+    "name": "Rechiseled",
+    "file": "rechiseled-1.2.4-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "426386": {
+    "file_id": "6194054",
+    "name": "Shrink.",
+    "file": "shrink-2.0.1.47-neoforge.jar",
+    "category": "mods"
+  },
+  "388800": {
+    "file_id": "6794589",
+    "name": "Polymorph (Fabric/Forge/Quilt)",
+    "file": "polymorph-neoforge-1.1.0+1.21.1.jar",
+    "category": "mods"
+  },
+  "394140": {
+    "file_id": "6316527",
+    "name": "Simple Magnets",
+    "file": "simplemagnets-1.1.12c-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "319598": {
+    "file_id": "5439731",
+    "name": "Structure Compass",
+    "file": "StructureCompass-1.21-4.0.0.jar",
+    "category": "mods"
+  },
+  "884272": {
+    "file_id": "5819178",
+    "name": "New Shield Variants | Shields with Effects!",
+    "file": "new_shield_variants-merged-1.21.1-2.0.0.jar",
+    "category": "mods"
+  },
+  "936020": {
+    "file_id": "8126570",
+    "name": "Create: Power Loader",
+    "file": "create_power_loader-2.0.5-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "412082": {
+    "file_id": "8173945",
+    "name": "Supplementaries",
+    "file": "supplementaries-neoforge-1.21.1-3.6.6.jar",
+    "category": "mods"
+  },
+  "662675": {
+    "file_id": "8175167",
+    "name": "End's Delight",
+    "file": "ends_delight-2.6+neoforge.1.21.1.jar",
+    "category": "mods"
+  },
+  "968398": {
+    "file_id": "7251823",
+    "name": "Create: Copycats+",
+    "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "897858": {
+    "file_id": "6616313",
+    "name": "Create: Fishing Bobber Detector | Automatic Fishing with Create",
+    "file": "bobberdetector-neoforge1.21.1-1.0.3.jar",
+    "category": "mods"
+  },
+  "1260145": {
+    "file_id": "8174720",
+    "name": "Create: Escalated",
+    "file": "escalated-1.3.1-mc.1.21.1.jar",
+    "category": "mods"
+  },
+  "1543292": {
+    "file_id": "8113055",
+    "name": "Carryon - Patched (Unofficial)",
+    "file": "carryon-neoforge-1.21.1-2.2.4.4-patched-no-slowness.jar",
+    "category": "mods"
+  },
+  "1247573": {
+    "file_id": "7909653",
+    "name": "Create: Compatible Storage",
+    "file": "create_compatible_storage-2.11.0-neoforge.jar",
+    "category": "mods"
+  },
+  "252848": {
+    "file_id": "7892954",
+    "name": "Nature's Compass",
+    "file": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+    "category": "mods"
+  },
+  "1105290": {
+    "file_id": "6040674",
+    "name": "Auroras",
+    "file": "Auroras-1.21-1.6.2.jar",
+    "category": "mods"
+  },
+  "542235": {
+    "file_id": "7419660",
+    "name": "Create Cafe",
+    "file": "createcafe-1.4.3.jar",
+    "category": "mods"
+  },
+  "241160": {
+    "file_id": "5623547",
+    "name": "NetherPortalFix",
+    "file": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+    "category": "mods"
+  },
+  "400933": {
+    "file_id": "7256148",
+    "name": "Macaw's Trapdoors",
+    "file": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "441647": {
+    "file_id": "8139800",
+    "name": "FramedBlocks",
+    "file": "FramedBlocks-10.6.0.jar",
+    "category": "mods"
+  },
+  "953729": {
+    "file_id": "6286593",
+    "name": "Create: Oxidized",
+    "file": "create_oxidized-0.1.3.jar",
+    "category": "mods"
+  },
+  "1232926": {
+    "file_id": "7651561",
+    "name": "Create: Chocolate Fountain",
+    "file": "create_chocolate_fountain-1.21.1-1.1.0.jar",
+    "category": "mods"
+  },
+  "686911": {
+    "file_id": "7537795",
+    "name": "ImmediatelyFast",
+    "file": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+    "category": "mods"
+  },
+  "656346": {
+    "file_id": "7084444",
+    "name": "Load My F***ing Tags",
+    "file": "lmft-1.1.1+1.21.9-neoforge.jar",
+    "category": "mods"
+  },
+  "1279407": {
+    "file_id": "7587771",
+    "name": "Ritchie's Projectile Library",
+    "file": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "1357430": {
+    "file_id": "8147235",
+    "name": "Create: Schematic Checker",
+    "file": "createschematicchecker-1.21.26-6.0-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "417645": {
+    "file_id": "7966681",
+    "name": "Just Enough Professions (JEP)",
+    "file": "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar",
+    "category": "mods"
+  },
+  "1166930": {
+    "file_id": "8125283",
+    "name": "Sophisticated Storage in Motion",
+    "file": "sophisticatedstorageinmotion-1.21.1-0.10.30.258.jar",
+    "category": "mods"
+  },
+  "688768": {
+    "file_id": "7970748",
+    "name": "Create: Enchantment Industry",
+    "file": "create-enchantment-industry-2.3.1.jar",
+    "category": "mods"
+  },
+  "500273": {
+    "file_id": "6798196",
+    "name": "Visual Workbench",
+    "file": "VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "406463": {
+    "file_id": "6239407",
+    "name": "BlueMap",
+    "file": "bluemap-5.7-neoforge.jar",
+    "category": "mods"
+  },
+  "416294": {
+    "file_id": "7104526",
+    "name": "Rhino",
+    "file": "rhino-2101.2.7-build.81.jar",
+    "category": "mods"
+  },
+  "976817": {
+    "file_id": "6986733",
+    "name": "Medieval Buildings [End Edition]",
+    "file": "medieval_buildings_end_edition-1.21.1-1.0.4-neoforge.jar",
+    "category": "mods"
+  },
+  "400514": {
+    "file_id": "8066730",
+    "name": "Easy Villagers",
+    "file": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+    "category": "mods"
+  },
+  "478559": {
+    "file_id": "6956811",
+    "name": "Measurements",
+    "file": "Measurements-neoforge-1.21.1-3.0.3.jar",
+    "category": "mods"
+  },
+  "246640": {
+    "file_id": "8035819",
+    "name": "Mystical Agriculture",
+    "file": "MysticalAgriculture-1.21.1-8.0.26.jar",
+    "category": "mods"
+  },
+  "858542": {
+    "file_id": "5831692",
+    "name": "Searchables",
+    "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+    "category": "mods"
+  },
+  "906239": {
+    "file_id": "7544005",
+    "name": "Create: Interiors",
+    "file": "interiors-1.21.1-neoforge-0.6.1.jar",
+    "category": "mods"
+  },
+  "1007404": {
+    "file_id": "8128243",
+    "name": "Create: Metallurgy",
+    "file": "createmetallurgy-1.0.3-1.21.1.jar",
+    "category": "mods"
+  },
+  "1131668": {
+    "file_id": "8046852",
+    "name": "Ars Nouveau's Flavors & Delight",
+    "file": "arsdelight-2.2.1.jar",
+    "category": "mods"
+  },
+  "306770": {
+    "file_id": "7730942",
+    "name": "Patchouli",
+    "file": "Patchouli-1.21.1-93-NEOFORGE.jar",
+    "category": "mods"
+  },
+  "966104": {
+    "file_id": "7287996",
+    "name": "Create: Metalwork",
+    "file": "createmetalwork-2.0.0.jar",
+    "category": "mods"
+  },
+  "1088877": {
+    "file_id": "8130121",
+    "name": "Farmers Structures",
+    "file": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+    "category": "mods"
+  },
+  "882133": {
+    "file_id": "6597394",
+    "name": "Boss Refreshed",
+    "file": "boss-refreshed-v2-1.19-1.21.zip",
+    "category": "resourcepacks"
+  },
+  "832882": {
+    "file_id": "7962596",
+    "name": "Structure Essentials",
+    "file": "structureessentials-1.21.1-5.0.jar",
+    "category": "mods"
+  },
+  "955399": {
+    "file_id": "8109792",
+    "name": "GlitchCore",
+    "file": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+    "category": "mods"
+  },
+  "377835": {
+    "file_id": "6776826",
+    "name": "Create Goggles (Create Plus)",
+    "file": "creategoggles-1.21.1-6.1.1-[NEOFORGE].jar",
+    "category": "mods"
+  },
+  "1173950": {
+    "file_id": "8129788",
+    "name": "GuideME",
+    "file": "guideme-21.1.16.jar",
+    "category": "mods"
+  },
+  "531761": {
+    "file_id": "7420963",
+    "name": "Balm",
+    "file": "balm-neoforge-1.21.1-21.0.56.jar",
+    "category": "mods"
+  },
+  "410295": {
+    "file_id": "5453385",
+    "name": "Konkrete",
+    "file": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+    "category": "mods"
+  },
+  "453763": {
+    "file_id": "7670377",
+    "name": "Fresh Animations",
+    "file": "FreshAnimations_v1.10.4.zip",
+    "category": "resourcepacks"
+  },
+  "832983": {
+    "file_id": "7314829",
+    "name": "Chef's Delight [Forge] - Farmer's Delight Villagers",
+    "file": "chefsdelight-1.0.5-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "308240": {
+    "file_id": "6353949",
+    "name": "Cherished Worlds",
+    "file": "cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+    "category": "mods"
+  },
+  "348521": {
+    "file_id": "5729127",
+    "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+    "file": "cloth-config-15.0.140-neoforge.jar",
+    "category": "mods"
+  },
+  "223794": {
+    "file_id": "7027323",
+    "name": "Applied Energistics 2",
+    "file": "appliedenergistics2-19.2.17.jar",
+    "category": "mods"
+  },
+  "1281336": {
+    "file_id": "7948263",
+    "name": "Create: Hypertubes",
+    "file": "create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+    "category": "mods"
+  },
+  "867099": {
+    "file_id": "8117841",
+    "name": "CraterLib",
+    "file": "CraterLib-Neoforge-1.21-3.1.2.jar",
+    "category": "mods"
+  },
+  "1522736": {
+    "file_id": "8099955",
+    "name": "Create Propulsion: Simulated",
+    "file": "createpropulsion-1.1.4.jar",
+    "category": "mods"
+  },
+  "896385": {
+    "file_id": "5747588",
+    "name": "New Slab Variants | +250 New Slabs!",
+    "file": "new_slab_variants-merged-1.21.1-3.0.1.jar",
+    "category": "mods"
+  },
+  "938643": {
+    "file_id": "5453382",
+    "name": "Melody",
+    "file": "melody_neoforge_1.0.10_MC_1.21.jar",
+    "category": "mods"
+  },
+  "1023913": {
+    "file_id": "8008312",
+    "name": "Subtle Effects",
+    "file": "SubtleEffects-neoforge-1.21.1-1.14.3.jar",
+    "category": "mods"
+  },
+  "841262": {
+    "file_id": "7939973",
+    "name": "Ocean's\u00a0Delight",
+    "file": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+    "category": "mods"
+  },
+  "549225": {
+    "file_id": "7530361",
+    "name": "Framework",
+    "file": "framework-neoforge-1.21.1-0.13.11.jar",
+    "category": "mods"
+  },
+  "351725": {
+    "file_id": "7627896",
+    "name": "Macaw's Bridges",
+    "file": "mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "841890": {
+    "file_id": "8061947",
+    "name": "Athena",
+    "file": "athena-neoforge-1.21.1-4.0.6.jar",
+    "category": "mods"
+  },
+  "250419": {
+    "file_id": "7039849",
+    "name": "Enchantment Descriptions",
+    "file": "enchdesc-neoforge-1.21.1-21.1.9.jar",
+    "category": "mods"
+  },
+  "535960": {
+    "file_id": "7370045",
+    "name": "Macaw's Oh The Biomes You'll Go / We've Gone",
+    "file": "mcwbyg-neoforge-1.21.1-1.5.jar",
+    "category": "mods"
+  },
+  "1232975": {
+    "file_id": "8122033",
+    "name": "Create: Rustic Structures",
+    "file": "create_rustic_structures-1.0.1-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "398521": {
+    "file_id": "8083481",
+    "name": "Farmer's Delight",
+    "file": "FarmersDelight-1.21.1-1.3.2.jar",
+    "category": "mods"
+  },
+  "238891": {
+    "file_id": "6063191",
+    "name": "Dynamic Surroundings",
+    "file": "dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+    "category": "mods"
+  },
+  "1255421": {
+    "file_id": "7116125",
+    "name": "Climate Rivers",
+    "file": "ClimateRivers-v21.1.3-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "649832": {
+    "file_id": "7199305",
+    "name": "Create Ore Excavation",
+    "file": "createoreexcavation-1.21-1.6.8.jar",
+    "category": "mods"
+  },
+  "452834": {
+    "file_id": "7508749",
+    "name": "RightClickHarvest",
+    "file": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+    "category": "mods"
+  },
+  "891328": {
+    "file_id": "5918192",
+    "name": "Diagonal Windows",
+    "file": "DiagonalWindows-v21.1.1-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "550678": {
+    "file_id": "6819714",
+    "name": "Too Fast",
+    "file": "toofast-1.21.0-0.4.3.6.jar",
+    "category": "mods"
+  },
+  "1104882": {
+    "file_id": "6533725",
+    "name": "TxniLib",
+    "file": "txnilib-neoforge-1.0.24-1.21.1.jar",
+    "category": "mods"
+  },
+  "360438": {
+    "file_id": "7740400",
+    "name": "Lithium (Fabric/NeoForge)",
+    "file": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "874028": {
+    "file_id": "7274685",
+    "name": "Dynamic Trees - Ars Nouveau",
+    "file": "dtarsnouveau-1.3.0.jar",
+    "category": "mods"
+  },
+  "646668": {
+    "file_id": "8175295",
+    "name": "Create Big Cannons",
+    "file": "createbigcannons-5.11.5+mc.1.21.1.jar",
+    "category": "mods"
+  },
+  "463155": {
+    "file_id": "6240977",
+    "name": "Falling Leaves (NeoForge/Forge)",
+    "file": "fallingleaves-1.21.1-2.5.1.jar",
+    "category": "mods"
+  },
+  "561885": {
+    "file_id": "6290230",
+    "name": "Just Zoom",
+    "file": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+    "category": "mods"
+  },
+  "1285600": {
+    "file_id": "6645097",
+    "name": "Create: Oh The Biomes We've Gone Compat",
+    "file": "create-otbwg-compat-1.0.jar",
+    "category": "mods"
+  },
+  "580689": {
+    "file_id": "6640970",
+    "name": "Loot Integrations",
+    "file": "lootintegrations-1.21.1-4.7.jar",
+    "category": "mods"
+  },
+  "256717": {
+    "file_id": "5623731",
+    "name": "Clumps",
+    "file": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+    "category": "mods"
+  },
+  "1102591": {
+    "file_id": "7625579",
+    "name": "Create: Trading Floor",
+    "file": "trading_floor-3.0.16.jar",
+    "category": "mods"
+  },
+  "443900": {
+    "file_id": "5757713",
+    "name": "Pipez",
+    "file": "pipez-neoforge-1.21.1-1.2.19.jar",
+    "category": "mods"
+  },
+  "431203": {
+    "file_id": "8081726",
+    "name": "MakeUp - Ultra Fast | Shaders",
+    "file": "MakeUp-UltraFast-9.5a.zip",
+    "category": "shaderpacks"
+  },
+  "351441": {
+    "file_id": "6409785",
+    "name": "Pick Up Notifier",
+    "file": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "386753": {
+    "file_id": "8022428",
+    "name": "Dynamic Trees - Quark",
+    "file": "dtquark-2.6.1.jar",
+    "category": "mods"
+  },
+  "962544": {
+    "file_id": "8096180",
+    "name": "Oh The Trees You'll Grow",
+    "file": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+    "category": "mods"
+  },
+  "623265": {
+    "file_id": "8093525",
+    "name": "Create: Factory",
+    "file": "create_factory-0.7a-1.21.1.jar",
+    "category": "mods"
+  },
+  "1373339": {
+    "file_id": "7283562",
+    "name": "Unlocked Typing",
+    "file": "unlocked_typing-merged-1.21.1-1.0.1.jar",
+    "category": "mods"
+  },
+  "238086": {
+    "file_id": "8083208",
+    "name": "KubeJS",
+    "file": "kubejs-neoforge-2101.7.2-build.368.jar",
+    "category": "mods"
+  },
+  "1005914": {
+    "file_id": "7568897",
+    "name": "Fzzy Config",
+    "file": "fzzy_config-0.7.6+1.21+neoforge.jar",
+    "category": "mods"
+  },
+  "429235": {
+    "file_id": "7524151",
+    "name": "FerriteCore ((Neo)Forge)",
+    "file": "ferritecore-7.0.3-neoforge.jar",
+    "category": "mods"
+  },
+  "235577": {
+    "file_id": "8163135",
+    "name": "TrashSlot",
+    "file": "trashslot-neoforge-1.21.1-21.1.11.jar",
+    "category": "mods"
+  },
+  "951499": {
+    "file_id": "6935204",
+    "name": "Fast Async World Save[Forge/Neo/Fabric]",
+    "file": "fastasyncworldsave-1.21-2.6.jar",
+    "category": "mods"
+  },
+  "1208896": {
+    "file_id": "7344729",
+    "name": "Cryonic Config",
+    "file": "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
+    "category": "mods"
+  },
+  "394468": {
+    "file_id": "6382651",
+    "name": "Sodium",
+    "file": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "280510": {
+    "file_id": "7115922",
+    "name": "AttributeFix",
+    "file": "attributefix-neoforge-1.21.1-21.1.3.jar",
+    "category": "mods"
+  },
+  "252818": {
+    "file_id": "8184894",
+    "name": "Dynamic Trees",
+    "file": "dynamictrees-neoforge-1.21.1-1.7.1.jar",
+    "category": "mods"
+  },
+  "454372": {
+    "file_id": "7783425",
+    "name": "SuperMartijn642's Core Lib",
+    "file": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "360203": {
+    "file_id": "8112026",
+    "name": "Guard Villagers",
+    "file": "guardvillagers-2.4.8-1.21.1.jar",
+    "category": "mods"
+  },
+  "271740": {
+    "file_id": "6751464",
+    "name": "Toast Control",
+    "file": "ToastControl-1.21.1-9.0.1.jar",
+    "category": "mods"
+  },
+  "1057194": {
+    "file_id": "6328368",
+    "name": "Create: Curios Jetpack & Backtank",
+    "file": "create_jetpack_curios-1.2.0-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "1298070": {
+    "file_id": "7952054",
+    "name": "Beautiful Potions [MOD EDITION] | 2.0 UPDATE! ",
+    "file": "BTP-NeoForge-1.21.1-2.0.0.jar",
+    "category": "mods"
+  },
+  "254284": {
+    "file_id": "8043019",
+    "name": "AmbientSounds 6",
+    "file": "AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+    "category": "mods"
+  },
+  "228525": {
+    "file_id": "7606240",
+    "name": "Bookshelf",
+    "file": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+    "category": "mods"
+  },
+  "1351997": {
+    "file_id": "7476105",
+    "name": "Create: Create O' Plenty (Create + Biomes O' Plenty Mod compat)",
+    "file": "CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar",
+    "category": "mods"
+  },
+  "495476": {
+    "file_id": "8168234",
+    "name": "Puzzles Lib",
+    "file": "PuzzlesLib-v21.1.51-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "1086710": {
+    "file_id": "6607350",
+    "name": "Create Waystones Recipes",
+    "file": "create_waystones_recipes-3.0.1.jar",
+    "category": "mods"
+  },
+  "520110": {
+    "file_id": "6423863",
+    "name": "Iceberg [Neo/Forge]",
+    "file": "Iceberg-1.21.1-neoforge-1.3.2.jar",
+    "category": "mods"
+  },
+  "289529": {
+    "file_id": "7284398",
+    "name": "Dynamic Trees - Biomes O' Plenty",
+    "file": "dtbop-3.4.0.jar",
+    "category": "mods"
+  },
+  "864781": {
+    "file_id": "8037481",
+    "name": "Create: Dreams n' Desires",
+    "file": "DnDesires-1.21.1-2.3a-BETA.jar",
+    "category": "mods"
+  },
+  "322506": {
+    "file_id": "7588844",
+    "name": "BSL Shaders",
+    "file": "BSL_v10.1.1.zip",
+    "category": "shaderpacks"
+  },
+  "532610": {
+    "file_id": "6785734",
+    "name": "o\u03c9o (owo-lib)",
+    "file": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+    "category": "mods"
+  },
+  "502372": {
+    "file_id": "7304075",
+    "name": "Macaw's Lights and Lamps",
+    "file": "mcw-lights-1.1.5-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "1008327": {
+    "file_id": "8077429",
+    "name": "Animal Armor Trims - Horse & Wolf",
+    "file": "animal_armor_trims-neoforge-1.21.1-2.3.1.jar",
+    "category": "mods"
+  },
+  "1254143": {
+    "file_id": "8139573",
+    "name": "Colorwheel",
+    "file": "colorwheel-neoforge-1.2.8+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "64760": {
+    "file_id": "7148568",
+    "name": "Security Craft",
+    "file": "[1.21.1] SecurityCraft v1.10.1.jar",
+    "category": "mods"
+  },
+  "455508": {
+    "file_id": "6661598",
+    "name": "Iris Shaders",
+    "file": "iris-neoforge-1.8.12+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "457570": {
+    "file_id": "7276577",
+    "name": "Configured",
+    "file": "configured-neoforge-1.21.1-2.6.3.jar",
+    "category": "mods"
+  },
+  "448233": {
+    "file_id": "8053771",
+    "name": "Entity Culling Fabric/Forge",
+    "file": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "608235": {
+    "file_id": "6476374",
+    "name": "YDM's Weapon Master",
+    "file": "weaponmaster_ydm-1.21.1-neoforge-4.2.7.jar",
+    "category": "mods"
+  },
+  "911437": {
+    "file_id": "6456912",
+    "name": "Sparse Structures",
+    "file": "sparsestructures-neoforge-1.21.1-3.0.jar",
+    "category": "mods"
+  },
+  "951809": {
+    "file_id": "6210326",
+    "name": "Super Secret Doors",
+    "file": "secretdoors-1.21.1-v1.0.0.jar",
+    "category": "mods"
+  },
+  "404465": {
+    "file_id": "7746959",
+    "name": "FTB Library (NeoForge)",
+    "file": "ftb-library-neoforge-2101.1.31.jar",
+    "category": "mods"
+  },
+  "361276": {
+    "file_id": "8041234",
+    "name": "Lootr (Forge & NeoForge)",
+    "file": "lootr-neoforge-1.21.1-1.11.37.120.jar",
+    "category": "mods"
+  },
+  "220318": {
+    "file_id": "7251965",
+    "name": "Biomes O' Plenty",
+    "file": "BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+    "category": "mods"
+  },
+  "1354280": {
+    "file_id": "8011080",
+    "name": "Create: Transmission!",
+    "file": "createtransmission-1.1.2+neoforge-create6-1.21.1.jar",
+    "category": "mods"
+  },
+  "324717": {
+    "file_id": "7545219",
+    "name": "Jade \ud83d\udd0d",
+    "file": "Jade-1.21.1-NeoForge-15.10.5.jar",
+    "category": "mods"
+  },
+  "60028": {
+    "file_id": "7901588",
+    "name": "Aquaculture 2",
+    "file": "Aquaculture-1.21.1-2.7.21.jar",
+    "category": "mods"
+  },
+  "453925": {
+    "file_id": "7308338",
+    "name": "Macaw's Fences and Walls",
+    "file": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "1226755": {
+    "file_id": "7974820",
+    "name": "Sophisticated Storage Create Integration",
+    "file": "sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar",
+    "category": "mods"
+  },
+  "388172": {
+    "file_id": "7707149",
+    "name": "GeckoLib",
+    "file": "geckolib-neoforge-1.21.1-4.8.4.jar",
+    "category": "mods"
+  },
+  "1134366": {
+    "file_id": "6073163",
+    "name": "Christmas Delight (Farmers Delight Addon)",
+    "file": "farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1.jar",
+    "category": "mods"
+  },
+  "1094819": {
+    "file_id": "6274107",
+    "name": "Farmer's Cutting: Oh The Biomes We've Gone",
+    "file": "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar",
+    "category": "mods"
+  },
+  "531834": {
+    "file_id": "8063074",
+    "name": "Create Confectionery",
+    "file": "create-confectionery1.21.1_v1.1.3b.jar",
+    "category": "mods"
+  },
+  "491794": {
+    "file_id": "7892943",
+    "name": "Explorer's Compass",
+    "file": "ExplorersCompass-1.21.1-3.4.0-neoforge.jar",
+    "category": "mods"
+  },
+  "248787": {
+    "file_id": "7854442",
+    "name": "AppleSkin",
+    "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+    "category": "mods"
+  },
+  "1238567": {
+    "file_id": "7168412",
+    "name": "Sophisticated Backpacks Create Integration",
+    "file": "sophisticatedbackpackscreateintegration-1.21.1-0.1.5.29.jar",
+    "category": "mods"
+  },
+  "568563": {
+    "file_id": "7930620",
+    "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+    "file": "entity_texture_features_1.21-neoforge-7.1.jar",
+    "category": "mods"
+  },
+  "961988": {
+    "file_id": "6179576",
+    "name": "Aquaculture Delight (A Farmer's Delight Add-on)",
+    "file": "aquaculturedelight-1.2.0-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "301051": {
+    "file_id": "7625223",
+    "name": "Quark Oddities",
+    "file": "QuarkOddities-1.21.1.jar",
+    "category": "mods"
+  },
+  "240630": {
+    "file_id": "6506298",
+    "name": "Just Enough Resources (JER)",
+    "file": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+    "category": "mods"
+  },
+  "468836": {
+    "file_id": "4630227",
+    "name": "Created Simple Storage Network",
+    "file": "Created Simple Storage 1.3.zip",
+    "category": "resourcepacks"
+  },
+  "886773": {
+    "file_id": "6252716",
+    "name": "Create Compressed",
+    "file": "create_compressed-2.2.0-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "478155": {
+    "file_id": "7698617",
+    "name": "Dynamic Trees Plus",
+    "file": "DynamicTreesPlus-neoforge-1.21.1-1.3.2.jar",
+    "category": "mods"
+  },
+  "1216624": {
+    "file_id": "8097174",
+    "name": "Create: Dragons Plus",
+    "file": "CreateDragonsPlus-1.10.1.jar",
+    "category": "mods"
+  },
+  "317716": {
+    "file_id": "5778461",
+    "name": "Elytra Slot",
+    "file": "elytraslot-neoforge-9.0.2+1.21.1.jar",
+    "category": "mods"
+  },
+  "1278431": {
+    "file_id": "7435312",
+    "name": "Medieval Buildings [Nether Edition]",
+    "file": "medieval_buildings_nether_edition-1.21.1-1.0.2-neoforge.jar",
+    "category": "mods"
+  },
+  "308989": {
+    "file_id": "5694215",
+    "name": "Caelus API",
+    "file": "caelus-neoforge-7.0.1+1.21.1.jar",
+    "category": "mods"
+  },
+  "243121": {
+    "file_id": "8146177",
+    "name": "Quark",
+    "file": "Quark-4.1-480.jar",
+    "category": "mods"
+  },
+  "1275340": {
+    "file_id": "7262775",
+    "name": "Delightful Creators [Forge] (Create and Farmer's Delight Addon)",
+    "file": "delightfulcreators-1.2.jar",
+    "category": "mods"
+  },
+  "233071": {
+    "file_id": "8019498",
+    "name": "Crafting Tweaks",
+    "file": "craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+    "category": "mods"
+  },
+  "359540": {
+    "file_id": "7255584",
+    "name": "Macaw's Furniture",
+    "file": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "844662": {
+    "file_id": "8063559",
+    "name": "[EMF] Entity Model Features [Fabric & Forge]",
+    "file": "entity_model_features-3.2.4-1.21-neoforge.jar",
+    "category": "mods"
+  },
+  "1119194": {
+    "file_id": "7843594",
+    "name": "Easel Does It!",
+    "file": "easel_does_it-1.21.1-2.0.3.jar",
+    "category": "mods"
+  },
+  "829380": {
+    "file_id": "8132852",
+    "name": "Create Encased",
+    "file": "Create Encased-1.21.1-1.8.1-ht1.jar",
+    "category": "mods"
+  },
+  "941096": {
+    "file_id": "5545923",
+    "name": "Polymorphic Energistics",
+    "file": "polyeng-0.4.1.jar",
+    "category": "mods"
+  },
+  "860903": {
+    "file_id": "5875192",
+    "name": "Fresh Waystones Texture",
+    "file": "waystones_1.21.1.zip",
+    "category": "resourcepacks"
+  },
+  "1374673": {
+    "file_id": "7262045",
+    "name": "RPG Potions \u2013 8 New Potions",
+    "file": "RPG Potions - Neoforge - MC 1.21.1 - 1.2.0.jar",
+    "category": "mods"
+  },
+  "521480": {
+    "file_id": "7857567",
+    "name": "Skin Layers 3D",
+    "file": "skinlayers3d-neoforge-1.11.1-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "456956": {
+    "file_id": "5813117",
+    "name": "Chipped",
+    "file": "chipped-neoforge-1.21.1-4.0.2.jar",
+    "category": "mods"
+  },
+  "407206": {
+    "file_id": "7875229",
+    "name": "Chat Heads",
+    "file": "chat_heads-0.15.1-neoforge-1.21.jar",
+    "category": "mods"
+  },
+  "268566": {
+    "file_id": "7904061",
+    "name": "Mekanism Generators",
+    "file": "MekanismGenerators-1.21.1-10.7.19.85.jar",
+    "category": "mods"
+  },
+  "682567": {
+    "file_id": "5733955",
+    "name": "Easy Anvils",
+    "file": "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "714059": {
+    "file_id": "6467772",
+    "name": "Resourceful Config",
+    "file": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+    "category": "mods"
+  },
+  "1228716": {
+    "file_id": "6410823",
+    "name": "Underwater Village - Oceanic Structures",
+    "file": "underwater_village-1.0.2-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "291874": {
+    "file_id": "6182596",
+    "name": "Serene Seasons",
+    "file": "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar",
+    "category": "mods"
+  },
+  "1312371": {
+    "file_id": "8007005",
+    "name": "Sable",
+    "file": "sable-neoforge-1.21.1-1.2.2.jar",
+    "category": "mods"
+  },
+  "383129": {
+    "file_id": "6811960",
+    "name": "Connected Glass",
+    "file": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+    "category": "mods"
+  },
+  "422951": {
+    "file_id": "7701961",
+    "name": "Create: Some Assembly Required",
+    "file": "someassemblyrequired-5.2.8.jar",
+    "category": "mods"
+  },
+  "923277": {
+    "file_id": "7802502",
+    "name": "Create: Garnished",
+    "file": "garnished-april-foods-26-neoforged.jar",
+    "category": "mods"
+  },
+  "378646": {
+    "file_id": "7618651",
+    "name": "Macaw's Doors",
+    "file": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "711216": {
+    "file_id": "8074028",
+    "name": "Geophilic \u2013 Vanilla Biome Overhauls",
+    "file": "Geophilic v3.5.mod.jar",
+    "category": "mods"
+  },
+  "1524471": {
+    "file_id": "8158831",
+    "name": "Waystones: Sable (Create Aeronautics Addon)",
+    "file": "waystonessable-1.0.3.jar",
+    "category": "mods"
+  },
+  "363569": {
+    "file_id": "7317672",
+    "name": "Macaw's Windows",
+    "file": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "882718": {
+    "file_id": "6658543",
+    "name": "Exclusive Weapons, Armor and Tools",
+    "file": "EW-NeoForge-1.21.1-1.0.0.jar",
+    "category": "mods"
+  },
+  "1074338": {
+    "file_id": "7727898",
+    "name": "AE2 JEI Integration",
+    "file": "ae2jeiintegration-1.2.1.jar",
+    "category": "mods"
+  },
+  "561470": {
+    "file_id": "8159010",
+    "name": "Ars Elemental",
+    "file": "ars_elemental-1.21.1-0.7.9.4.jar",
+    "category": "mods"
+  },
+  "241895": {
+    "file_id": "8163148",
+    "name": "KleeSlabs",
+    "file": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
+    "category": "mods"
+  },
+  "1391289": {
+    "file_id": "7258831",
+    "name": "Potion Combiner [Potion Blending Combiner]",
+    "file": "potion_combiner-1.21.1-Neoforge-1.0.0.jar",
+    "category": "mods"
+  },
+  "667299": {
+    "file_id": "7437845",
+    "name": "YetAnotherConfigLib",
+    "file": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "272515": {
+    "file_id": "5850587",
+    "name": "Better Advancements",
+    "file": "BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+    "category": "mods"
+  },
+  "915308": {
+    "file_id": "6153780",
+    "name": "Clean Swing Through Grass",
+    "file": "cleanswing-1.9.jar",
+    "category": "mods"
+  },
+  "470193": {
+    "file_id": "7367221",
+    "name": "Connectivity",
+    "file": "connectivity-1.21.1-7.6.jar",
+    "category": "mods"
+  },
+  "1320115": {
+    "file_id": "6844021",
+    "name": "Create: Sophisticated Backpacks Compat",
+    "file": "create_sophback_compat-1.0.jar",
+    "category": "mods"
+  },
+  "940057": {
+    "file_id": "6054947",
+    "name": "TerraBlender (NeoForge)",
+    "file": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+    "category": "mods"
+  },
+  "969422": {
+    "file_id": "5918894",
+    "name": "Diagonal Walls",
+    "file": "DiagonalWalls-v21.1.2-1.21.1-NeoForge.jar",
+    "category": "mods"
+  },
+  "256247": {
+    "file_id": "7802027",
+    "name": "Mystical Agradditions",
+    "file": "MysticalAgradditions-1.21.1-8.0.13.jar",
+    "category": "mods"
+  },
+  "1103431": {
+    "file_id": "6100815",
+    "name": "Sodium/Embeddium Options API",
+    "file": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+    "category": "mods"
+  },
+  "923238": {
+    "file_id": "8156977",
+    "name": "Create: Design n' Decor",
+    "file": "Design-n-Decor-1.21.1-2.2b.jar",
+    "category": "mods"
+  },
+  "429371": {
+    "file_id": "7213667",
+    "name": "KubeJS Create",
+    "file": "kubejs-create-neoforge-2101.3.1-build.18.jar",
+    "category": "mods"
+  },
+  "1398383": {
+    "file_id": "7591460",
+    "name": "Create: Bits 'n' Bobs",
+    "file": "bits_n_bobs-0.0.44.jar",
+    "category": "mods"
+  },
+  "659674": {
+    "file_id": "7738176",
+    "name": "Create Slice & Dice",
+    "file": "sliceanddice-forge-4.2.4.jar",
+    "category": "mods"
+  },
+  "499980": {
+    "file_id": "8156754",
+    "name": "Moonlight Lib",
+    "file": "moonlight-neoforge-1.21.1-3.0.16.jar",
+    "category": "mods"
+  },
+  "905040": {
+    "file_id": "6299879",
+    "name": "Create: Bells & Whistles",
+    "file": "bellsandwhistles-0.4.7-1.21.1.jar",
+    "category": "mods"
+  },
+  "232131": {
+    "file_id": "7966181",
+    "name": "Default Options",
+    "file": "defaultoptions-neoforge-1.21.1-21.1.6.jar",
+    "category": "mods"
+  },
+  "353942": {
+    "file_id": "6776464",
+    "name": "Snow Under Trees",
+    "file": "snowundertrees-1.21.1-1.5.jar",
+    "category": "mods"
+  },
+  "231484": {
+    "file_id": "8056595",
+    "name": "Cooking for Blockheads",
+    "file": "cookingforblockheads-neoforge-1.21.1-21.1.23.jar",
+    "category": "mods"
+  },
+  "629153": {
+    "file_id": "7029451",
+    "name": "Macaw's Paths and Pavings",
+    "file": "mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
+    "category": "mods"
+  },
+  "859307": {
+    "file_id": "5875969",
+    "name": "Eat an Omelette",
+    "file": "eat_an_omelette-merged-1.21.1-1.5.0.jar",
+    "category": "mods"
+  },
+  "693815": {
+    "file_id": "7430073",
+    "name": "Create: The Factory Must Grow",
+    "file": "tfmg-1.2.0.jar",
+    "category": "mods"
+  },
+  "499826": {
+    "file_id": "5905995",
+    "name": "Advancement Plaques [Neo/Forge]",
+    "file": "AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+    "category": "mods"
+  },
+  "978148": {
+    "file_id": "5532331",
+    "name": "Epic Power Bracelets",
+    "file": "epicpowerbracelets-neoforge-1.21-1.1.1.jar",
+    "category": "mods"
+  },
+  "551894": {
+    "file_id": "7404415",
+    "name": "Better Compatibility Checker",
+    "file": "better-compatability-checker-neoforge-21.1.8.jar",
+    "category": "mods"
+  },
+  "422301": {
+    "file_id": "8181786",
+    "name": "Sophisticated Backpacks",
+    "file": "sophisticatedbackpacks-1.21.1-3.25.51.1801.jar",
+    "category": "mods"
+  },
+  "1253573": {
+    "file_id": "7226648",
+    "name": "Mechanicals Lib",
+    "file": "mechanicals-1.21.1-1.1.0.jar",
+    "category": "mods"
+  },
+  "548115": {
+    "file_id": "5665477",
+    "name": "Alternate Current",
+    "file": "alternate_current-mc1.21-1.9.0.jar",
+    "category": "mods"
+  },
+  "382216": {
+    "file_id": "8048607",
+    "name": "Blueprint",
+    "file": "blueprint-1.21.1-8.1.0.jar",
+    "category": "mods"
+  },
+  "1219053": {
+    "file_id": "7075190",
+    "name": "Particular \u2728 Reforged",
+    "file": "particular-1.21.1-NeoForge-1.1.7.jar",
+    "category": "mods"
+  },
+  "899386": {
+    "file_id": "8138627",
+    "name": "Just Enough Breeding (JEBr)",
+    "file": "justenoughbreeding-neoforge-1.21.1-3.1.0.jar",
+    "category": "mods"
+  },
+  "421897": {
+    "file_id": "8055433",
+    "name": "Particle Rain",
+    "file": "particlerain-4.0.0-beta.10+1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "1196142": {
+    "file_id": "7315860",
+    "name": "Create: Sound of Steam",
+    "file": "pipeorgans-0.8.2+1.21.1.jar",
+    "category": "mods"
+  },
+  "551586": {
+    "file_id": "8095590",
+    "name": "L_Ender 's Cataclysm",
+    "file": "L_Ender's Cataclysm 1.21.1-3.28.jar",
+    "category": "mods"
+  },
+  "869316": {
+    "file_id": "8115914",
+    "name": "Create: Diesel Generators",
+    "file": "createdieselgenerators-1.21.1-1.3.12.jar",
+    "category": "mods"
+  },
+  "1010456": {
+    "file_id": "8016653",
+    "name": "Wider Ender Chests | 8 New Ender Chests!",
+    "file": "wider_ender_chests-neoforge-1.21.1-1.0.4.jar",
+    "category": "mods"
+  },
+  "854949": {
+    "file_id": "7471474",
+    "name": "Fusion (Connected Textures)",
+    "file": "fusion-1.2.12-neoforge-mc1.21.1.jar",
+    "category": "mods"
+  },
+  "298744": {
+    "file_id": "8138382",
+    "name": "Structurize",
+    "file": "structurize-1.0.830-1.21.1.jar",
+    "category": "mods"
+  },
+  "250398": {
+    "file_id": "6368976",
+    "name": "Controlling",
+    "file": "Controlling-neoforge-1.21.1-19.0.5.jar",
+    "category": "mods"
+  },
+  "397252": {
+    "file_id": "6672681",
+    "name": "Living Things",
+    "file": "livingthings-neoforge-1.21.1-2.3.0.jar",
+    "category": "mods"
+  },
+  "1061749": {
+    "file_id": "7766920",
+    "name": "Create: Enchantable Machinery",
+    "file": "createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "1116812": {
+    "file_id": "6052947",
+    "name": "Toni's Immersive Lanterns",
+    "file": "immersivelanterns-neoforge-1.0.6-1.21.1.jar",
+    "category": "mods"
+  },
+  "223852": {
+    "file_id": "6995432",
+    "name": "Storage Drawers",
+    "file": "StorageDrawers-neoforge-1.21.1-13.11.4.jar",
+    "category": "mods"
+  },
+  "491290": {
+    "file_id": "7120722",
+    "name": "Smarter Farmers (farmers replant)",
+    "file": "smarterfarmers-1.21-2.2.4-neoforge.jar",
+    "category": "mods"
+  },
+  "882495": {
+    "file_id": "5513549",
+    "name": "fix GPU memory leak[Forge/Fabric]",
+    "file": "gpumemleakfix-1.21-1.8.jar",
+    "category": "mods"
+  },
+  "968868": {
+    "file_id": "7980010",
+    "name": "Zeta",
+    "file": "Zeta-1.1-40.jar",
+    "category": "mods"
+  },
+  "1003666": {
+    "file_id": "7456302",
+    "name": "Luki's Grand Capitals",
+    "file": "lukis-grand-capitals-1.1.3.jar",
+    "category": "mods"
+  },
+  "1005676": {
+    "file_id": "7192082",
+    "name": "Create: Aquatic Ambitions",
+    "file": "create_aquatic_ambitions-1.21.1-2.0.2.jar",
+    "category": "mods"
+  },
+  "661938": {
+    "file_id": "7329807",
+    "name": "Create Sifting",
+    "file": "createsifter-1.21.1-2.2.1.jar",
+    "category": "mods"
+  },
+  "328085": {
+    "file_id": "7963363",
+    "name": "Create",
+    "file": "create-1.21.1-6.0.10.jar",
+    "category": "mods"
+  },
+  "855414": {
+    "file_id": "7907341",
+    "name": "Iron's Spells 'n Spellbooks",
+    "file": "irons_spellbooks-1.21.1-3.15.6.jar",
+    "category": "mods"
+  },
+  "570073": {
+    "file_id": "5973188",
+    "name": "Resourceful Lib",
+    "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
+    "category": "mods"
+  },
+  "824654": {
+    "file_id": "6803367",
+    "name": "Create: Molten Vents",
+    "file": "molten_vents-1.21.1-2.1.1.jar",
+    "category": "mods"
+  },
+  "623764": {
+    "file_id": "7766752",
+    "name": "JamLib",
+    "file": "jamlib-neoforge-1.3.6+1.21.1.jar",
+    "category": "mods"
+  },
+  "250832": {
+    "file_id": "6199696",
+    "name": "OpenBlocks Elevator",
+    "file": "elevatorid-neoforge-1.21.1-1.11.4.jar",
+    "category": "mods"
+  },
+  "978125": {
+    "file_id": "8038954",
+    "name": "Create: Ultimate Factory",
+    "file": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "666014": {
+    "file_id": "8158291",
+    "name": "Immersive Aircraft [Fabric/Forge]",
+    "file": "immersive_aircraft-1.4.6+1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "326652": {
+    "file_id": "7746488",
+    "name": "Cupboard",
+    "file": "cupboard-1.21-3.5.jar",
+    "category": "mods"
+  },
+  "1470821": {
+    "file_id": "7771419",
+    "name": "AnvilCore \ud83d\udd28",
+    "file": "anvilcore-10.1 Release-neoforge-1.21.1.jar",
+    "category": "mods"
+  },
+  "1070751": {
+    "file_id": "7745142",
+    "name": "Oh The Biomes We've Gone",
+    "file": "Oh-The-Biomes-Weve-Gone-NeoForge-2.5.5.jar",
+    "category": "mods"
+  },
+  "904356": {
+    "file_id": "7936390",
+    "name": "Fast IP Ping",
+    "file": "fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+    "category": "mods"
+  },
+  "1249131": {
+    "file_id": "7957107",
+    "name": "Create: Integrated Farming",
+    "file": "create-integrated-farming-1.2.2.jar",
+    "category": "mods"
+  },
+  "790626": {
+    "file_id": "8141551",
+    "name": "ModernFix",
+    "file": "modernfix-neoforge-5.27.11+mc1.21.1.jar",
+    "category": "mods"
+  },
+  "1155936": {
+    "file_id": "7208601",
+    "name": "Coastal Waves",
+    "file": "Waves-1.21.x-1.6.1.jar",
+    "category": "mods"
+  },
+  "949555": {
+    "file_id": "7338300",
+    "name": "BadOptimizations",
+    "file": "BadOptimizations-2.4.1-1.21.1.jar",
+    "category": "mods"
+  },
+  "945479": {
+    "file_id": "6418577",
+    "name": "What Are They Up To (Watut)",
+    "file": "watut-neoforge-1.21.0-1.2.7.jar",
+    "category": "mods"
+  },
+  "883287": {
+    "file_id": "7305762",
+    "name": "Fast Paintings",
+    "file": "fastpaintings-1.21-1.3.0-neoforge.jar",
+    "category": "mods"
+  },
+  "638111": {
+    "file_id": "6372979",
+    "name": "Prism [Neo/Forge]",
+    "file": "Prism-1.21.1-neoforge-1.0.11.jar",
+    "category": "mods"
+  },
+  "953126": {
+    "file_id": "7698798",
+    "name": "Create: Framed",
+    "file": "createframed-1.21.1-1.7.3.jar",
+    "category": "mods"
+  },
+  "563464": {
+    "file_id": "8170342",
+    "name": "Easy Mob Farm",
+    "file": "easy_mob_farm-neoforge-1.21.1-10.9.0.jar",
+    "category": "mods"
+  },
+  "532127": {
+    "file_id": "6400660",
+    "name": "Legendary Tooltips [Neo/Forge]",
+    "file": "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar",
+    "category": "mods"
+  },
+  "276951": {
+    "file_id": "7515858",
+    "name": "Comforts",
+    "file": "comforts-neoforge-9.0.5+1.21.1.jar",
+    "category": "mods"
+  },
+  "1083202": {
+    "file_id": "7268159",
+    "name": "Beautiful Enchanted Books [MOD EDITION] | 6.0 UPDATE!",
+    "file": "BEB-NeoForge-1.21-6.0.0.jar",
+    "category": "mods"
+  },
+  "907856": {
+    "file_id": "6165711",
+    "name": "Recipe Essentials[Forge/Fabric]",
+    "file": "recipeessentials-1.21-4.0.jar",
+    "category": "mods"
+  }
+}

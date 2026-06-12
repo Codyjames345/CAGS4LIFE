@@ -1,5 +1,5 @@
 {
-  "latest": "1.3.2",
+  "latest": "2.0.0",
   "versions": [
     {
       "version": "1.0.0",
@@ -41,6 +41,13 @@
       "time": 1779643611.6434011,
       "message": "Updated all to latest version, fixed many bugs in updater scripts",
       "modloader": "neoforge-21.1.229"
+    },
+    {
+      "version": "2.0.0",
+      "commit": "e3df047854",
+      "time": 1780385033.4428241,
+      "message": "Overhauled versioning system, fixed overrides",
+      "modloader": "neoforge-21.1.233"
     }
   ],
   "client_only_ids": [
@@ -83,7 +90,9 @@
     "844662",
     "882495",
     "904356",
+    "908741",
     "915902",
+    "931925",
     "949555"
   ],
   "server_only_ids": [
@@ -104,5 +113,13 @@
     "899487",
     "951499",
     "953729"
-  ]
+  ],
+  "server_only_overrides": [
+    "mods/bluemapmodelloaders-neoforge.jar"
+  ],
+  "custom_mod_names": {
+    "mods/ars_nouveau-1.21.1-patched.jar": "Ars Nouveau (patched - LambDynLights JiJ removed)",
+    "mods/bluemapmodelloaders-neoforge.jar": "BlueMap Model Loaders",
+    "mods/cags4life_linkmod.jar": "CAGS4LIFE Link Mod"
+  }
 }
