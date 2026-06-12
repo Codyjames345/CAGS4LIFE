@@ -1,5 +1,5 @@
 {
-  "latest": "2.0.0",
+  "latest": "2.1.0",
   "versions": [
     {
       "version": "1.0.0",
@@ -47,6 +47,13 @@
       "commit": "e3df047854",
       "time": 1780385033.4428241,
       "message": "Overhauled versioning system, fixed overrides",
+      "modloader": "neoforge-21.1.233"
+    },
+    {
+      "version": "2.1.0",
+      "commit": "21398c75c1",
+      "time": 1781273263.4600506,
+      "message": "Major bug fixes, updated all mods",
       "modloader": "neoforge-21.1.233"
     }
   ],
