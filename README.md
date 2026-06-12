@@ -4,7 +4,7 @@ A private survival server built around **Create** and tech mods — automate eve
 
 Note - you have to be a member of my Discord server to join this server, _don't even think about it bots!_. This is enforced by a whitelist managed by the Simple Discord Link plugin's access control.
 
-**Minecraft 1.21.1 · neoforge-21.1.229**
+**Minecraft 1.21.1 · neoforge-21.1.233**
 
 ---
 
@@ -15,14 +15,14 @@ Note - you have to be a member of my Discord server to join this server, _don't 
 Go to the [Releases page](https://github.com/Codyjames345/CAGS4LIFE/releases) and download one of:
 
 - **`CAGS4LIFE-client-updater.exe`** (or `.py`) — the updater can install from scratch, no zip needed (see [Updating](#updating) below)
-- **`CAGS4LIFE-1.3.2-client.zip`** — extract manually into your instance folder (see below)
-- **`CAGS4LIFE-1.3.2-curseforge.zip`** — import directly into the CurseForge launcher
+- **`CAGS4LIFE-2.0.0-client.zip`** — extract manually into your instance folder (see below)
+- **`CAGS4LIFE-2.0.0-curseforge.zip`** — import directly into the CurseForge launcher
 
 ### 2. Install it
 
 **Importing the CurseForge zip (easiest):**
 1. Open the CurseForge launcher and click **Create Custom Profile** → **Import**.
-2. Select `CAGS4LIFE-1.3.2-curseforge.zip` and let it install.
+2. Select `CAGS4LIFE-2.0.0-curseforge.zip` and let it install.
 
 **Extracting the client zip manually:**
 
@@ -31,13 +31,13 @@ or [Prism Launcher](https://prismlauncher.org/)) is strongly recommended. The va
 launcher shares one `.minecraft` folder across all versions, so installing mods there affects
 every version you play.
 
-1. Create a new **neoforge-21.1.229** instance.
+1. Create a new **neoforge-21.1.233** instance.
 2. Open the instance folder (usually right-click → "Open Folder" or similar).
-3. Extract the contents of `CAGS4LIFE-1.3.2-client.zip` into that folder —
+3. Extract the contents of `CAGS4LIFE-2.0.0-client.zip` into that folder —
    `mods`, `resourcepacks`, and `config` should land at its root.
 
 **Using the vanilla launcher:**
-1. Install neoforge-21.1.229 — it will create a new profile automatically.
+1. Install neoforge-21.1.233 — it will create a new profile automatically.
 2. Extract the zip contents into your `.minecraft` folder (`%AppData%\.minecraft` on Windows,
    `~/Library/Application Support/minecraft` on macOS, `~/.minecraft` on Linux).
 3. Note: mods installed here are shared with all other versions in the vanilla launcher.
@@ -76,7 +76,7 @@ Alternatively, download and extract a release zip from the [Releases page](https
 | | |
 |---|---|
 | Minecraft | 1.21.1 |
-| Mod loader | neoforge-21.1.229 |
+| Mod loader | neoforge-21.1.233 |
 | Python (updater only) | 3.8 or newer |
 
 ---
@@ -94,9 +94,9 @@ README PLACEHOLDERS
   CAGS4LIFE      → settings.modpack_name
   CAGS4LIFE       → settings.file_prefix, falling back to settings.modpack_name
   1.21.1 → Minecraft version from the commit (e.g. 1.21.1) — kept in sync on MC version changes
-  neoforge-21.1.229         → Full modloader id (e.g. neoforge-21.1.229)       — kept in sync on modloader changes
+  neoforge-21.1.233         → Full modloader id (e.g. neoforge-21.1.229)       — kept in sync on modloader changes
   NeoForge    → Loader name only (e.g. NeoForge)                 — kept in sync on modloader changes
-  1.3.2    → Modpack version (e.g. 1.2.0)                     — kept in sync on every build
+  2.0.0    → Modpack version (e.g. 1.2.0)                     — kept in sync on every build
   https://github.com/Codyjames345/CAGS4LIFE/releases      → https://github.com/<user>/<repo>/releases
   Codyjames34526            → settings.author
   cags4.life    → settings.server_address
