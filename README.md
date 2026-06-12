@@ -15,14 +15,14 @@ Note - you have to be a member of my Discord server to join this server, _don't 
 Go to the [Releases page](https://github.com/Codyjames345/CAGS4LIFE/releases) and download one of:
 
 - **`CAGS4LIFE-client-updater.exe`** (or `.py`) — the updater can install from scratch, no zip needed (see [Updating](#updating) below)
-- **`CAGS4LIFE-2.1.0-client.zip`** — extract manually into your instance folder (see below)
-- **`CAGS4LIFE-2.1.0-curseforge.zip`** — import directly into the CurseForge launcher
+- **`CAGS4LIFE-2.2.0-client.zip`** — extract manually into your instance folder (see below)
+- **`CAGS4LIFE-2.2.0-curseforge.zip`** — import directly into the CurseForge launcher
 
 ### 2. Install it
 
 **Importing the CurseForge zip (easiest):**
 1. Open the CurseForge launcher and click **Create Custom Profile** → **Import**.
-2. Select `CAGS4LIFE-2.1.0-curseforge.zip` and let it install.
+2. Select `CAGS4LIFE-2.2.0-curseforge.zip` and let it install.
 
 **Extracting the client zip manually:**
 
@@ -33,7 +33,7 @@ every version you play.
 
 1. Create a new **neoforge-21.1.233** instance.
 2. Open the instance folder (usually right-click → "Open Folder" or similar).
-3. Extract the contents of `CAGS4LIFE-2.1.0-client.zip` into that folder —
+3. Extract the contents of `CAGS4LIFE-2.2.0-client.zip` into that folder —
    `mods`, `resourcepacks`, and `config` should land at its root.
 
 **Using the vanilla launcher:**
@@ -96,7 +96,7 @@ README PLACEHOLDERS
   1.21.1 → Minecraft version from the commit (e.g. 1.21.1) — kept in sync on MC version changes
   neoforge-21.1.233         → Full modloader id (e.g. neoforge-21.1.229)       — kept in sync on modloader changes
   NeoForge    → Loader name only (e.g. NeoForge)                 — kept in sync on modloader changes
-  2.1.0    → Modpack version (e.g. 1.2.0)                     — kept in sync on every build
+  2.2.0    → Modpack version (e.g. 1.2.0)                     — kept in sync on every build
   https://github.com/Codyjames345/CAGS4LIFE/releases      → https://github.com/<user>/<repo>/releases
   Codyjames34526            → settings.author
   cags4.life    → settings.server_address
