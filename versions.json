@@ -1,5 +1,5 @@
 {
-  "latest": "2.3.0",
+  "latest": "2.4.0",
   "versions": [
     {
       "version": "1.0.0",
@@ -69,6 +69,13 @@
       "time": 1781286851.618438,
       "message": "Removed OTBWG to prevent a catastrophe",
       "modloader": "neoforge-21.1.233"
+    },
+    {
+      "version": "2.4.0",
+      "commit": "a6461ca55f",
+      "time": 1781367104.0212224,
+      "message": "Added more optimisation & utility mods, and the roads more travelled (finally got ported)",
+      "modloader": "neoforge-21.1.233"
     }
   ],
   "client_only_ids": [
@@ -129,6 +136,7 @@
     "580689",
     "582327",
     "623723",
+    "630716",
     "632624",
     "831663",
     "832882",
@@ -136,12 +144,28 @@
     "951499",
     "953729"
   ],
+  "client_only_overrides": [
+    "player_models/2dmario.cpmmodel",
+    "player_models/BadApple.cpmmodel",
+    "player_models/Banana.cpmmodel",
+    "player_models/BonnietheBunny.cpmmodel",
+    "player_models/BonnietheBunnyBlue.cpmmodel",
+    "player_models/CaveDweller.cpmmodel",
+    "player_models/Creeper.cpmmodel",
+    "player_models/DonkeyKong.cpmmodel",
+    "player_models/FunkyKong.cpmmodel",
+    "player_models/MarioSMRPG.cpmmodel",
+    "player_models/MoonKnight.cpmmodel",
+    "player_models/SkeletonAristocrat.cpmmodel",
+    "player_models/StormTrooper.cpmmodel",
+    "player_models/Stupid.cpmmodel",
+    "player_models/VillagerBusinessMan.cpmmodel"
+  ],
   "server_only_overrides": [
     "mods/bluemapmodelloaders-neoforge.jar"
   ],
   "custom_mod_names": {
     "mods/ars_nouveau-1.21.1-patched.jar": "Ars Nouveau (patched - LambDynLights JiJ removed)",
-    "mods/bluemapmodelloaders-neoforge.jar": "BlueMap Model Loaders",
-    "mods/cags4life_linkmod.jar": "CAGS4LIFE Link Mod"
+    "mods/bluemapmodelloaders-neoforge.jar": "BlueMap Model Loaders"
   }
 }
